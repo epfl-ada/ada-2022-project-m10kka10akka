@@ -5,20 +5,18 @@ Find our fantasic story [here](https://lyaoooo.github.io/adaproject.github.io/)!
 
 ### Abstract
 
-Navigation in information network is an essential part of our everyday lives. It is significant to understand how humans build the link between two words, in order to design user-friendly interactive system,. Different from how a computer do, humans will not always choose the shortest path to reach destination. With the development of priori knowledge, people might have formed certain ways to finish the navigation. We will dive into this topic with the help of *Wikispeedia*. <br>
-The goal of this project is to find the patterns that people tend to follow during the navigation paths. Is there an unrestrained creative navigation way or people tends to following a common pattern in the game?
-There are two steps:
-<ol>
-<li> People establish logical chains, according to priori knowledge.
-<li> People change logical chain according to what they see on the real article pages.
-</ol>
-We will analyse two steps individually to answer question.
+Navigation in the information network is an essential part of our everyday lives. It is significant to understand how humans build the link between two words, in order to design user-friendly interactive system. It is a general idea that: different from how a computer process the task, humans will not always choose the shortest path to reach destination. And at the first glance, one might consider that different people will link two words in various way according to their prior knowledge. However, here we want to investigate whether there is a common and general pattern in human’s formation of the word navigating. During the way-finding procedure, do human generate fantastic ideas to finish the word to word linking? Or though people finish the task in various path, there still exist a potential pattern in human’s mind to link two topic words. We carry out our analysis by using the dataset collecting through the human-computation game Wikispeedia. <br> <br>
+Our main approach consists in analyzing the finished path during the game and delving into the contents in HTML pages which people scan in their navigation actions. The analysis part could be divided into two primary sections: research on the potential pattern included in the finished path (internal factor) and study whether the contents in HTML pages will influence people’s way-finding between the source and destination (external factor).
 
 ### Research questions
-
+In the story, we will focus on the following research questions:
 <ol>
-<li> Is there any specific pattern change in articles' topic component, during the clicking process? For example, when navigating from ‘Zebra’ to ‘French Revolution’, there is a hypothesis that the elements of animals may decrease and the elements of history or politics may increase through the path. Does the ‘Zebra & French Revolution‘ hypothesis mentioned above or similar phenomenon hold?
-<li> Are there any other factors that influence people’s choice of clicking, i.e. contents on HTML pages? Do people tend to click links in an easy sentence or a professional sentence(readability)? Do people tend to click links that show up in the first a few lines of the article(position)?
+<li> Is there any specific pattern change in articles' topic component, during the clicking process? For example, when navigating from ‘Zebra’ to ‘French Revolution’, there is a hypothesis that the elements of animals may decrease, and the elements of history or politics would increase through the path. Does the ‘Zebra & French Revolution‘ hypothesis mentioned above or similar phenomenon hold?
+<li> Are there any external factors that influence people’s choice of clicking, i.e. contents on HTML pages? 
+<ol>
+	- Do people tend to click links in an easy sentence or a professional sentence? <br>
+	- Do people tend to click links that show up in the first a few lines of the article or links that have concentrated distribution in the webpage?
+</ol>
 </ol>
 
 ### Methods
