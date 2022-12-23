@@ -74,10 +74,7 @@ Analyse the top highest-frequency path pattern we find in step 3 with the HTML d
 </ol>
 
 
-**Step 7**: HTML analysis (Image)
-Analyse the top highest-frequency path pattern we find in step 3 with images in HTML pages.
-
-**Step 8**: Github site building and Datastory redaction.
+**Step 7**: Github site building and Datastory redaction.
 
 Further details on each data pipeline processing steps can be found in the notebook.
 
@@ -99,7 +96,7 @@ List all deadlines for every step above: <br>
 
 ### Organization within the team
 
-- @WayerLiu: LDA model; HTML analysis(Image); visualisations
-- @Lyaoooo: in-depth analysis; HTML analysis(Position); visualisations
-- @JackRuihang: in-depth analysis; HTML analysis(Readability); Github site
-- @shcSteven: in-depth analysis; HTML analysis(Readability); Github site
+- @WayerLiu: LDA Model; In-depth Analysis; Visualisations
+- @Lyaoooo: In-depth Analysis; Visualisations and Web Design
+- @JackRuihang: In-depth Analysis; HTML Analysis(Readability and Position); Github Site
+- @shcSteven: In-depth Analysis; HTML Analysis(Readability and Position); Github Site
