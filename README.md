@@ -21,15 +21,7 @@ In the story, we will focus on the following research questions:
 
 ### Methods
 
-As we mention above, there are two main steps when people are trying to connect two different words:
-
-<ol>
-<li>People first establish a logical chain (clear or blurry) which connect the source word to the destination, preliminarily. This part is based on people's priori knowledge.</li>
-<br>
-<li>While scanning the HTML page, people change their initial logical chain and finish their "clicking task". People make their shift according to the HTML they see, i.e. textplain, images in the page. </li>
-</ol>
-
-The construction of our methods is also based on those two main stages.
+The construction of our methods is as following.
 
 **Step 1**: Data scraping, pre-processing and dataset construction. <br>
 
@@ -42,7 +34,7 @@ Carry out the basic analysis and distribution plot on each dataframe. Validate t
 
 **Step 3**: In-depth Analysis <br>
 
-Merge dataframes together. Find the top highest-frequency path pattern appeared in the dataset. Preliminarily analyse the relationship between those most common pattern and the data category, article, plain-text.
+Merge dataframes together. Find which category do people tend to choose in their first article selection. Find the top highest-frequency path pair appeared in all finished path (path pair means: assume the path is A->B->C, path pairs are (A,B) and (B,C)). Preliminarily analyse the relationship between those most common pattern and the data category, article, plain-text.
 
 **Step 4**: Topic modeling (LDA) <br>
 Use the LDA model to analyse the first step when users are playing the game.
@@ -58,19 +50,20 @@ Steps in detail are as following: <br>
 
 **Step 5**: HTML analysis (Readability)
 
-Analyse the top highest-frequency path pattern we find in step 3 with the HTML dataset.
+Analyse the top highest-frequency path pairs we find in step 3 with the HTML dataset.
 <ol>
-<li> Sample sentences that contain the specific path link in the most common path pattern. Construct new dataset with those sentences selected. 
+<li> Find the readability of the sentences which contain the highest-frequency path pairs we discuss above
+<li> Continue to research on the readability of all links in the dataset. Find all links appeared in the HTML page and count on the clicking numbers of those links.
 <li> Apply readability analysis method to find whether people's tendency of clicking is related to the readability of those sentences. <br>
 The metrics used to measure the readability including Flesch reading-ease, Flesch-Kincaid Grade Level, Dale Chall Readability, Automated Readability Index, Coleman Liau Index and Gunning Fog. 
-<li> Analyse the results from those evaluation metrics.
+<li> Analyse the results from those evaluation results.
 </ol>
 
 **Step 6**: HTML analysis (Position)
 Analyse the top highest-frequency path pattern we find in step 3 with the HTML dataset.
 <ol>
-<li> Cluster the links appeared in each article HTML page
-<li> Analyse those clusters with the most common path pattern
+<li> Calculate the position of each link appeared in all articles
+<li> Analyse those position with the clicking numbers of the link
 </ol>
 
 
