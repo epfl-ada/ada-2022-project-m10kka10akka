@@ -80,8 +80,6 @@ Analyse the top highest-frequency path pattern we find in step 3 with the HTML d
 
 Further details on each data pipeline processing steps can be found in the notebook.
 
-#### External libraries
-
 ### Proposed timeline
 List all deadlines for every step above: <br>
 28.10.22 **MileStone 2 realese**
