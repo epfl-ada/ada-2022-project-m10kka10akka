@@ -1,5 +1,7 @@
 # While way-finding, human is a *Genius* or a *Lazybone*?
 
+### Data Story Website
+URL: https://lyaoooo.github.io/adaproject.github.io/
 
 ### Abstract
 
