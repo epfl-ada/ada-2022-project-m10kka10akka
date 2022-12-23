@@ -91,7 +91,7 @@ List all deadlines for every step above: <br>
 18.11.22 **MileStone 2 deadline** <br>
 25.11.22 Pause project work. Finish **Homework 2** <br>
 02.12.22 Pause project work. Finish **Homework 2** <br>
-09.12.22 HTML analysis (Readability); HTML analysis (Position) HTML analysis (Image) <br>
+09.12.22 HTML analysis (Readability); HTML analysis (Position) <br>
 16.12.22 Complete all code implementations and visualisations relevant to analysis <br>
 22.12.22 Github site building and Datastory redaction； Integrate MileStone 3<br>
 23.12.22 **MileStone 3 deadline** 
