@@ -100,5 +100,5 @@ List all deadlines for every step above: <br>
 
 - @WayerLiu: LDA Model; In-depth Analysis; Visualisations
 - @Lyaoooo: In-depth Analysis; Visualisations and Web Design
-- @JackRuihang: In-depth Analysis; HTML Analysis(Readability and Position); Github Site
-- @shcSteven: In-depth Analysis; HTML Analysis(Readability and Position); Github Site
+- @JackRuihang: In-depth Analysis; HTML Analysis(Readability and Position); Github Site; Write Web Content
+- @shcSteven: In-depth Analysis; HTML Analysis(Readability and Position); Github Site; Write Web Content
