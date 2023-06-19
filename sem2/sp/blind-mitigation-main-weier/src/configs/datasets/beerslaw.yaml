@@ -1,0 +1,28 @@
+---
+data:
+  dataset: beerslaw
+  feature: simplestates_cluster
+  label: binconcepts
+  others:
+    gender:
+      - 3
+      - 4
+  adjuster:
+    limit: 300
+ml:
+  pipeline:
+    model: ts_attention
+  oversampler:
+    oversampling_col:
+      # - language 
+      # - year
+      # - field
+      # - label  
+      # - binvector
+      # - gender
+      # - 0_cluster_state_1-5_7 
+      # - 0_cluster_state_1-5_9
+      # - 0_cluster_state_2_9
+      # - 0_cluster_state_1_4
+      - 0_cluster_state_action_2_9
+...

@@ -1,0 +1,1744 @@
+binconcepts,level_1,length,groupby_keys,year,field,language,level_2
+0.0,6.0,74,['binconcepts'],,,,
+0.0,7.0,15,['binconcepts'],,,,
+0.0,10.0,16,['binconcepts'],,,,
+0.0,11.0,105,['binconcepts'],,,,
+0.0,12.0,106,['binconcepts'],,,,
+0.0,14.0,127,['binconcepts'],,,,
+0.0,15.0,32,['binconcepts'],,,,
+0.0,16.0,48,['binconcepts'],,,,
+0.0,17.0,14,['binconcepts'],,,,
+0.0,18.0,70,['binconcepts'],,,,
+0.0,23.0,24,['binconcepts'],,,,
+0.0,24.0,32,['binconcepts'],,,,
+0.0,25.0,14,['binconcepts'],,,,
+0.0,27.0,107,['binconcepts'],,,,
+0.0,28.0,65,['binconcepts'],,,,
+0.0,32.0,21,['binconcepts'],,,,
+0.0,33.0,132,['binconcepts'],,,,
+0.0,34.0,145,['binconcepts'],,,,
+0.0,35.0,53,['binconcepts'],,,,
+0.0,36.0,160,['binconcepts'],,,,
+0.0,37.0,126,['binconcepts'],,,,
+0.0,38.0,151,['binconcepts'],,,,
+0.0,39.0,111,['binconcepts'],,,,
+0.0,43.0,18,['binconcepts'],,,,
+0.0,44.0,14,['binconcepts'],,,,
+0.0,45.0,30,['binconcepts'],,,,
+0.0,47.0,217,['binconcepts'],,,,
+0.0,48.0,181,['binconcepts'],,,,
+0.0,50.0,18,['binconcepts'],,,,
+0.0,51.0,13,['binconcepts'],,,,
+0.0,53.0,106,['binconcepts'],,,,
+0.0,54.0,26,['binconcepts'],,,,
+0.0,55.0,107,['binconcepts'],,,,
+0.0,56.0,34,['binconcepts'],,,,
+0.0,58.0,36,['binconcepts'],,,,
+0.0,59.0,22,['binconcepts'],,,,
+0.0,63.0,22,['binconcepts'],,,,
+0.0,64.0,96,['binconcepts'],,,,
+0.0,69.0,67,['binconcepts'],,,,
+0.0,70.0,29,['binconcepts'],,,,
+0.0,72.0,82,['binconcepts'],,,,
+0.0,73.0,22,['binconcepts'],,,,
+0.0,74.0,59,['binconcepts'],,,,
+0.0,75.0,20,['binconcepts'],,,,
+0.0,76.0,79,['binconcepts'],,,,
+0.0,78.0,29,['binconcepts'],,,,
+0.0,79.0,53,['binconcepts'],,,,
+0.0,82.0,51,['binconcepts'],,,,
+0.0,84.0,139,['binconcepts'],,,,
+0.0,86.0,30,['binconcepts'],,,,
+0.0,87.0,21,['binconcepts'],,,,
+0.0,88.0,38,['binconcepts'],,,,
+0.0,89.0,82,['binconcepts'],,,,
+0.0,91.0,22,['binconcepts'],,,,
+0.0,92.0,16,['binconcepts'],,,,
+0.0,93.0,54,['binconcepts'],,,,
+0.0,97.0,142,['binconcepts'],,,,
+0.0,101.0,108,['binconcepts'],,,,
+0.0,104.0,33,['binconcepts'],,,,
+0.0,105.0,21,['binconcepts'],,,,
+0.0,107.0,109,['binconcepts'],,,,
+0.0,108.0,34,['binconcepts'],,,,
+0.0,109.0,221,['binconcepts'],,,,
+0.0,110.0,34,['binconcepts'],,,,
+0.0,114.0,42,['binconcepts'],,,,
+0.0,115.0,11,['binconcepts'],,,,
+0.0,117.0,31,['binconcepts'],,,,
+0.0,123.0,40,['binconcepts'],,,,
+0.0,124.0,173,['binconcepts'],,,,
+0.0,126.0,112,['binconcepts'],,,,
+0.0,127.0,34,['binconcepts'],,,,
+0.0,130.0,62,['binconcepts'],,,,
+0.0,133.0,14,['binconcepts'],,,,
+0.0,134.0,17,['binconcepts'],,,,
+0.0,135.0,33,['binconcepts'],,,,
+0.0,136.0,25,['binconcepts'],,,,
+0.0,137.0,128,['binconcepts'],,,,
+0.0,138.0,115,['binconcepts'],,,,
+0.0,139.0,39,['binconcepts'],,,,
+0.0,141.0,190,['binconcepts'],,,,
+0.0,144.0,47,['binconcepts'],,,,
+0.0,146.0,60,['binconcepts'],,,,
+0.0,149.0,42,['binconcepts'],,,,
+0.0,150.0,39,['binconcepts'],,,,
+0.0,151.0,21,['binconcepts'],,,,
+0.0,152.0,50,['binconcepts'],,,,
+0.0,153.0,25,['binconcepts'],,,,
+0.0,155.0,57,['binconcepts'],,,,
+0.0,158.0,52,['binconcepts'],,,,
+0.0,159.0,16,['binconcepts'],,,,
+0.0,160.0,17,['binconcepts'],,,,
+0.0,164.0,28,['binconcepts'],,,,
+0.0,167.0,121,['binconcepts'],,,,
+0.0,168.0,135,['binconcepts'],,,,
+0.0,169.0,33,['binconcepts'],,,,
+0.0,170.0,58,['binconcepts'],,,,
+0.0,174.0,24,['binconcepts'],,,,
+0.0,177.0,28,['binconcepts'],,,,
+0.0,178.0,136,['binconcepts'],,,,
+0.0,181.0,317,['binconcepts'],,,,
+0.0,183.0,33,['binconcepts'],,,,
+0.0,184.0,16,['binconcepts'],,,,
+0.0,188.0,43,['binconcepts'],,,,
+0.0,189.0,40,['binconcepts'],,,,
+0.0,191.0,211,['binconcepts'],,,,
+0.0,193.0,37,['binconcepts'],,,,
+0.0,196.0,54,['binconcepts'],,,,
+0.0,197.0,59,['binconcepts'],,,,
+0.0,198.0,20,['binconcepts'],,,,
+0.0,199.0,15,['binconcepts'],,,,
+0.0,200.0,58,['binconcepts'],,,,
+0.0,202.0,34,['binconcepts'],,,,
+0.0,205.0,24,['binconcepts'],,,,
+0.0,209.0,300,['binconcepts'],,,,
+0.0,210.0,15,['binconcepts'],,,,
+0.0,211.0,11,['binconcepts'],,,,
+0.0,213.0,120,['binconcepts'],,,,
+0.0,214.0,14,['binconcepts'],,,,
+0.0,215.0,18,['binconcepts'],,,,
+0.0,217.0,30,['binconcepts'],,,,
+0.0,218.0,32,['binconcepts'],,,,
+0.0,219.0,41,['binconcepts'],,,,
+0.0,220.0,18,['binconcepts'],,,,
+0.0,224.0,49,['binconcepts'],,,,
+0.0,225.0,14,['binconcepts'],,,,
+0.0,226.0,20,['binconcepts'],,,,
+0.0,227.0,227,['binconcepts'],,,,
+0.0,229.0,36,['binconcepts'],,,,
+0.0,230.0,16,['binconcepts'],,,,
+0.0,231.0,63,['binconcepts'],,,,
+0.0,233.0,16,['binconcepts'],,,,
+0.0,234.0,35,['binconcepts'],,,,
+0.0,235.0,30,['binconcepts'],,,,
+0.0,236.0,70,['binconcepts'],,,,
+0.0,237.0,24,['binconcepts'],,,,
+0.0,239.0,63,['binconcepts'],,,,
+0.0,242.0,28,['binconcepts'],,,,
+0.0,243.0,25,['binconcepts'],,,,
+0.0,244.0,129,['binconcepts'],,,,
+1.0,0.0,69,['binconcepts'],,,,
+1.0,1.0,139,['binconcepts'],,,,
+1.0,2.0,24,['binconcepts'],,,,
+1.0,3.0,60,['binconcepts'],,,,
+1.0,4.0,23,['binconcepts'],,,,
+1.0,5.0,47,['binconcepts'],,,,
+1.0,8.0,56,['binconcepts'],,,,
+1.0,9.0,74,['binconcepts'],,,,
+1.0,13.0,39,['binconcepts'],,,,
+1.0,19.0,153,['binconcepts'],,,,
+1.0,20.0,21,['binconcepts'],,,,
+1.0,21.0,42,['binconcepts'],,,,
+1.0,22.0,69,['binconcepts'],,,,
+1.0,26.0,135,['binconcepts'],,,,
+1.0,29.0,36,['binconcepts'],,,,
+1.0,30.0,122,['binconcepts'],,,,
+1.0,31.0,147,['binconcepts'],,,,
+1.0,40.0,27,['binconcepts'],,,,
+1.0,41.0,104,['binconcepts'],,,,
+1.0,42.0,24,['binconcepts'],,,,
+1.0,46.0,283,['binconcepts'],,,,
+1.0,49.0,39,['binconcepts'],,,,
+1.0,52.0,37,['binconcepts'],,,,
+1.0,57.0,75,['binconcepts'],,,,
+1.0,60.0,31,['binconcepts'],,,,
+1.0,61.0,130,['binconcepts'],,,,
+1.0,62.0,27,['binconcepts'],,,,
+1.0,65.0,185,['binconcepts'],,,,
+1.0,66.0,15,['binconcepts'],,,,
+1.0,67.0,56,['binconcepts'],,,,
+1.0,68.0,98,['binconcepts'],,,,
+1.0,71.0,23,['binconcepts'],,,,
+1.0,77.0,47,['binconcepts'],,,,
+1.0,80.0,50,['binconcepts'],,,,
+1.0,81.0,54,['binconcepts'],,,,
+1.0,83.0,54,['binconcepts'],,,,
+1.0,85.0,113,['binconcepts'],,,,
+1.0,90.0,86,['binconcepts'],,,,
+1.0,94.0,522,['binconcepts'],,,,
+1.0,95.0,156,['binconcepts'],,,,
+1.0,96.0,68,['binconcepts'],,,,
+1.0,98.0,42,['binconcepts'],,,,
+1.0,99.0,102,['binconcepts'],,,,
+1.0,100.0,56,['binconcepts'],,,,
+1.0,102.0,216,['binconcepts'],,,,
+1.0,103.0,29,['binconcepts'],,,,
+1.0,106.0,109,['binconcepts'],,,,
+1.0,111.0,41,['binconcepts'],,,,
+1.0,112.0,25,['binconcepts'],,,,
+1.0,113.0,24,['binconcepts'],,,,
+1.0,116.0,54,['binconcepts'],,,,
+1.0,118.0,75,['binconcepts'],,,,
+1.0,119.0,148,['binconcepts'],,,,
+1.0,120.0,35,['binconcepts'],,,,
+1.0,121.0,28,['binconcepts'],,,,
+1.0,122.0,33,['binconcepts'],,,,
+1.0,125.0,32,['binconcepts'],,,,
+1.0,128.0,112,['binconcepts'],,,,
+1.0,129.0,35,['binconcepts'],,,,
+1.0,131.0,66,['binconcepts'],,,,
+1.0,132.0,20,['binconcepts'],,,,
+1.0,140.0,87,['binconcepts'],,,,
+1.0,142.0,27,['binconcepts'],,,,
+1.0,143.0,25,['binconcepts'],,,,
+1.0,145.0,39,['binconcepts'],,,,
+1.0,147.0,121,['binconcepts'],,,,
+1.0,148.0,75,['binconcepts'],,,,
+1.0,154.0,213,['binconcepts'],,,,
+1.0,156.0,72,['binconcepts'],,,,
+1.0,157.0,263,['binconcepts'],,,,
+1.0,161.0,51,['binconcepts'],,,,
+1.0,162.0,88,['binconcepts'],,,,
+1.0,163.0,76,['binconcepts'],,,,
+1.0,165.0,40,['binconcepts'],,,,
+1.0,166.0,420,['binconcepts'],,,,
+1.0,171.0,60,['binconcepts'],,,,
+1.0,172.0,38,['binconcepts'],,,,
+1.0,173.0,31,['binconcepts'],,,,
+1.0,175.0,58,['binconcepts'],,,,
+1.0,176.0,43,['binconcepts'],,,,
+1.0,179.0,97,['binconcepts'],,,,
+1.0,180.0,37,['binconcepts'],,,,
+1.0,182.0,16,['binconcepts'],,,,
+1.0,185.0,115,['binconcepts'],,,,
+1.0,186.0,40,['binconcepts'],,,,
+1.0,187.0,55,['binconcepts'],,,,
+1.0,190.0,27,['binconcepts'],,,,
+1.0,192.0,138,['binconcepts'],,,,
+1.0,194.0,155,['binconcepts'],,,,
+1.0,195.0,97,['binconcepts'],,,,
+1.0,201.0,145,['binconcepts'],,,,
+1.0,203.0,61,['binconcepts'],,,,
+1.0,204.0,156,['binconcepts'],,,,
+1.0,206.0,23,['binconcepts'],,,,
+1.0,207.0,57,['binconcepts'],,,,
+1.0,208.0,43,['binconcepts'],,,,
+1.0,212.0,608,['binconcepts'],,,,
+1.0,216.0,208,['binconcepts'],,,,
+1.0,221.0,120,['binconcepts'],,,,
+1.0,222.0,128,['binconcepts'],,,,
+1.0,223.0,125,['binconcepts'],,,,
+1.0,228.0,53,['binconcepts'],,,,
+1.0,232.0,65,['binconcepts'],,,,
+1.0,238.0,39,['binconcepts'],,,,
+1.0,240.0,45,['binconcepts'],,,,
+1.0,241.0,81,['binconcepts'],,,,
+1.0,245.0,29,['binconcepts'],,,,
+1.0,246.0,25,['binconcepts'],,,,
+1.0,247.0,60,['binconcepts'],,,,
+1.0,248.0,127,['binconcepts'],,,,
+,0.0,69,['year'],1st,,,
+,12.0,106,['year'],1st,,,
+,13.0,39,['year'],1st,,,
+,14.0,127,['year'],1st,,,
+,18.0,70,['year'],1st,,,
+,23.0,24,['year'],1st,,,
+,25.0,14,['year'],1st,,,
+,27.0,107,['year'],1st,,,
+,30.0,122,['year'],1st,,,
+,32.0,21,['year'],1st,,,
+,34.0,145,['year'],1st,,,
+,35.0,53,['year'],1st,,,
+,36.0,160,['year'],1st,,,
+,38.0,151,['year'],1st,,,
+,41.0,104,['year'],1st,,,
+,42.0,24,['year'],1st,,,
+,43.0,18,['year'],1st,,,
+,45.0,30,['year'],1st,,,
+,46.0,283,['year'],1st,,,
+,48.0,181,['year'],1st,,,
+,54.0,26,['year'],1st,,,
+,56.0,34,['year'],1st,,,
+,57.0,75,['year'],1st,,,
+,65.0,185,['year'],1st,,,
+,70.0,29,['year'],1st,,,
+,73.0,22,['year'],1st,,,
+,78.0,29,['year'],1st,,,
+,79.0,53,['year'],1st,,,
+,80.0,50,['year'],1st,,,
+,82.0,51,['year'],1st,,,
+,84.0,139,['year'],1st,,,
+,87.0,21,['year'],1st,,,
+,91.0,22,['year'],1st,,,
+,93.0,54,['year'],1st,,,
+,95.0,156,['year'],1st,,,
+,96.0,68,['year'],1st,,,
+,97.0,142,['year'],1st,,,
+,102.0,216,['year'],1st,,,
+,105.0,21,['year'],1st,,,
+,106.0,109,['year'],1st,,,
+,108.0,34,['year'],1st,,,
+,110.0,34,['year'],1st,,,
+,112.0,25,['year'],1st,,,
+,114.0,42,['year'],1st,,,
+,120.0,35,['year'],1st,,,
+,122.0,33,['year'],1st,,,
+,123.0,40,['year'],1st,,,
+,124.0,173,['year'],1st,,,
+,127.0,34,['year'],1st,,,
+,128.0,112,['year'],1st,,,
+,130.0,62,['year'],1st,,,
+,137.0,128,['year'],1st,,,
+,138.0,115,['year'],1st,,,
+,139.0,39,['year'],1st,,,
+,140.0,87,['year'],1st,,,
+,141.0,190,['year'],1st,,,
+,148.0,75,['year'],1st,,,
+,155.0,57,['year'],1st,,,
+,156.0,72,['year'],1st,,,
+,159.0,16,['year'],1st,,,
+,162.0,88,['year'],1st,,,
+,172.0,38,['year'],1st,,,
+,178.0,136,['year'],1st,,,
+,182.0,16,['year'],1st,,,
+,183.0,33,['year'],1st,,,
+,184.0,16,['year'],1st,,,
+,185.0,115,['year'],1st,,,
+,186.0,40,['year'],1st,,,
+,188.0,43,['year'],1st,,,
+,193.0,37,['year'],1st,,,
+,196.0,54,['year'],1st,,,
+,197.0,59,['year'],1st,,,
+,198.0,20,['year'],1st,,,
+,199.0,15,['year'],1st,,,
+,201.0,145,['year'],1st,,,
+,204.0,156,['year'],1st,,,
+,205.0,24,['year'],1st,,,
+,206.0,23,['year'],1st,,,
+,207.0,57,['year'],1st,,,
+,209.0,300,['year'],1st,,,
+,211.0,11,['year'],1st,,,
+,213.0,120,['year'],1st,,,
+,215.0,18,['year'],1st,,,
+,220.0,18,['year'],1st,,,
+,221.0,120,['year'],1st,,,
+,229.0,36,['year'],1st,,,
+,233.0,16,['year'],1st,,,
+,236.0,70,['year'],1st,,,
+,240.0,45,['year'],1st,,,
+,241.0,81,['year'],1st,,,
+,244.0,129,['year'],1st,,,
+,247.0,60,['year'],1st,,,
+,2.0,24,['year'],2nd,,,
+,5.0,47,['year'],2nd,,,
+,7.0,15,['year'],2nd,,,
+,9.0,74,['year'],2nd,,,
+,10.0,16,['year'],2nd,,,
+,16.0,48,['year'],2nd,,,
+,21.0,42,['year'],2nd,,,
+,24.0,32,['year'],2nd,,,
+,28.0,65,['year'],2nd,,,
+,29.0,36,['year'],2nd,,,
+,31.0,147,['year'],2nd,,,
+,37.0,126,['year'],2nd,,,
+,39.0,111,['year'],2nd,,,
+,44.0,14,['year'],2nd,,,
+,47.0,217,['year'],2nd,,,
+,51.0,13,['year'],2nd,,,
+,55.0,107,['year'],2nd,,,
+,58.0,36,['year'],2nd,,,
+,59.0,22,['year'],2nd,,,
+,60.0,31,['year'],2nd,,,
+,61.0,130,['year'],2nd,,,
+,63.0,22,['year'],2nd,,,
+,64.0,96,['year'],2nd,,,
+,68.0,98,['year'],2nd,,,
+,71.0,23,['year'],2nd,,,
+,72.0,82,['year'],2nd,,,
+,75.0,20,['year'],2nd,,,
+,76.0,79,['year'],2nd,,,
+,77.0,47,['year'],2nd,,,
+,83.0,54,['year'],2nd,,,
+,85.0,113,['year'],2nd,,,
+,86.0,30,['year'],2nd,,,
+,88.0,38,['year'],2nd,,,
+,89.0,82,['year'],2nd,,,
+,90.0,86,['year'],2nd,,,
+,92.0,16,['year'],2nd,,,
+,94.0,522,['year'],2nd,,,
+,99.0,102,['year'],2nd,,,
+,101.0,108,['year'],2nd,,,
+,103.0,29,['year'],2nd,,,
+,104.0,33,['year'],2nd,,,
+,109.0,221,['year'],2nd,,,
+,111.0,41,['year'],2nd,,,
+,113.0,24,['year'],2nd,,,
+,115.0,11,['year'],2nd,,,
+,116.0,54,['year'],2nd,,,
+,119.0,148,['year'],2nd,,,
+,121.0,28,['year'],2nd,,,
+,125.0,32,['year'],2nd,,,
+,126.0,112,['year'],2nd,,,
+,129.0,35,['year'],2nd,,,
+,131.0,66,['year'],2nd,,,
+,132.0,20,['year'],2nd,,,
+,133.0,14,['year'],2nd,,,
+,135.0,33,['year'],2nd,,,
+,136.0,25,['year'],2nd,,,
+,142.0,27,['year'],2nd,,,
+,146.0,60,['year'],2nd,,,
+,147.0,121,['year'],2nd,,,
+,149.0,42,['year'],2nd,,,
+,151.0,21,['year'],2nd,,,
+,152.0,50,['year'],2nd,,,
+,153.0,25,['year'],2nd,,,
+,154.0,213,['year'],2nd,,,
+,157.0,263,['year'],2nd,,,
+,158.0,52,['year'],2nd,,,
+,163.0,76,['year'],2nd,,,
+,165.0,40,['year'],2nd,,,
+,167.0,121,['year'],2nd,,,
+,168.0,135,['year'],2nd,,,
+,169.0,33,['year'],2nd,,,
+,170.0,58,['year'],2nd,,,
+,171.0,60,['year'],2nd,,,
+,173.0,31,['year'],2nd,,,
+,174.0,24,['year'],2nd,,,
+,175.0,58,['year'],2nd,,,
+,176.0,43,['year'],2nd,,,
+,177.0,28,['year'],2nd,,,
+,179.0,97,['year'],2nd,,,
+,180.0,37,['year'],2nd,,,
+,181.0,317,['year'],2nd,,,
+,187.0,55,['year'],2nd,,,
+,189.0,40,['year'],2nd,,,
+,190.0,27,['year'],2nd,,,
+,191.0,211,['year'],2nd,,,
+,195.0,97,['year'],2nd,,,
+,200.0,58,['year'],2nd,,,
+,202.0,34,['year'],2nd,,,
+,203.0,61,['year'],2nd,,,
+,210.0,15,['year'],2nd,,,
+,216.0,208,['year'],2nd,,,
+,217.0,30,['year'],2nd,,,
+,218.0,32,['year'],2nd,,,
+,222.0,128,['year'],2nd,,,
+,223.0,125,['year'],2nd,,,
+,224.0,49,['year'],2nd,,,
+,225.0,14,['year'],2nd,,,
+,227.0,227,['year'],2nd,,,
+,228.0,53,['year'],2nd,,,
+,230.0,16,['year'],2nd,,,
+,231.0,63,['year'],2nd,,,
+,232.0,65,['year'],2nd,,,
+,234.0,35,['year'],2nd,,,
+,235.0,30,['year'],2nd,,,
+,237.0,24,['year'],2nd,,,
+,242.0,28,['year'],2nd,,,
+,243.0,25,['year'],2nd,,,
+,246.0,25,['year'],2nd,,,
+,1.0,139,['year'],3rd,,,
+,3.0,60,['year'],3rd,,,
+,4.0,23,['year'],3rd,,,
+,6.0,74,['year'],3rd,,,
+,8.0,56,['year'],3rd,,,
+,11.0,105,['year'],3rd,,,
+,15.0,32,['year'],3rd,,,
+,17.0,14,['year'],3rd,,,
+,19.0,153,['year'],3rd,,,
+,20.0,21,['year'],3rd,,,
+,22.0,69,['year'],3rd,,,
+,26.0,135,['year'],3rd,,,
+,33.0,132,['year'],3rd,,,
+,40.0,27,['year'],3rd,,,
+,49.0,39,['year'],3rd,,,
+,50.0,18,['year'],3rd,,,
+,52.0,37,['year'],3rd,,,
+,53.0,106,['year'],3rd,,,
+,62.0,27,['year'],3rd,,,
+,66.0,15,['year'],3rd,,,
+,67.0,56,['year'],3rd,,,
+,69.0,67,['year'],3rd,,,
+,74.0,59,['year'],3rd,,,
+,81.0,54,['year'],3rd,,,
+,98.0,42,['year'],3rd,,,
+,100.0,56,['year'],3rd,,,
+,107.0,109,['year'],3rd,,,
+,117.0,31,['year'],3rd,,,
+,118.0,75,['year'],3rd,,,
+,134.0,17,['year'],3rd,,,
+,143.0,25,['year'],3rd,,,
+,144.0,47,['year'],3rd,,,
+,145.0,39,['year'],3rd,,,
+,150.0,39,['year'],3rd,,,
+,160.0,17,['year'],3rd,,,
+,161.0,51,['year'],3rd,,,
+,164.0,28,['year'],3rd,,,
+,166.0,420,['year'],3rd,,,
+,192.0,138,['year'],3rd,,,
+,194.0,155,['year'],3rd,,,
+,208.0,43,['year'],3rd,,,
+,212.0,608,['year'],3rd,,,
+,214.0,14,['year'],3rd,,,
+,219.0,41,['year'],3rd,,,
+,226.0,20,['year'],3rd,,,
+,238.0,39,['year'],3rd,,,
+,239.0,63,['year'],3rd,,,
+,245.0,29,['year'],3rd,,,
+,248.0,127,['year'],3rd,,,
+,9.0,74,['field'],,Biology,,
+,10.0,16,['field'],,Biology,,
+,28.0,65,['field'],,Biology,,
+,44.0,14,['field'],,Biology,,
+,60.0,31,['field'],,Biology,,
+,63.0,22,['field'],,Biology,,
+,64.0,96,['field'],,Biology,,
+,68.0,98,['field'],,Biology,,
+,72.0,82,['field'],,Biology,,
+,73.0,22,['field'],,Biology,,
+,79.0,53,['field'],,Biology,,
+,85.0,113,['field'],,Biology,,
+,88.0,38,['field'],,Biology,,
+,92.0,16,['field'],,Biology,,
+,113.0,24,['field'],,Biology,,
+,133.0,14,['field'],,Biology,,
+,135.0,33,['field'],,Biology,,
+,141.0,190,['field'],,Biology,,
+,142.0,27,['field'],,Biology,,
+,198.0,20,['field'],,Biology,,
+,202.0,34,['field'],,Biology,,
+,209.0,300,['field'],,Biology,,
+,223.0,125,['field'],,Biology,,
+,227.0,227,['field'],,Biology,,
+,235.0,30,['field'],,Biology,,
+,0.0,69,['field'],,Chemistry,,
+,2.0,24,['field'],,Chemistry,,
+,4.0,23,['field'],,Chemistry,,
+,5.0,47,['field'],,Chemistry,,
+,7.0,15,['field'],,Chemistry,,
+,11.0,105,['field'],,Chemistry,,
+,12.0,106,['field'],,Chemistry,,
+,13.0,39,['field'],,Chemistry,,
+,14.0,127,['field'],,Chemistry,,
+,16.0,48,['field'],,Chemistry,,
+,17.0,14,['field'],,Chemistry,,
+,20.0,21,['field'],,Chemistry,,
+,21.0,42,['field'],,Chemistry,,
+,23.0,24,['field'],,Chemistry,,
+,24.0,32,['field'],,Chemistry,,
+,25.0,14,['field'],,Chemistry,,
+,27.0,107,['field'],,Chemistry,,
+,29.0,36,['field'],,Chemistry,,
+,30.0,122,['field'],,Chemistry,,
+,31.0,147,['field'],,Chemistry,,
+,32.0,21,['field'],,Chemistry,,
+,36.0,160,['field'],,Chemistry,,
+,39.0,111,['field'],,Chemistry,,
+,40.0,27,['field'],,Chemistry,,
+,42.0,24,['field'],,Chemistry,,
+,43.0,18,['field'],,Chemistry,,
+,46.0,283,['field'],,Chemistry,,
+,47.0,217,['field'],,Chemistry,,
+,48.0,181,['field'],,Chemistry,,
+,49.0,39,['field'],,Chemistry,,
+,50.0,18,['field'],,Chemistry,,
+,51.0,13,['field'],,Chemistry,,
+,52.0,37,['field'],,Chemistry,,
+,53.0,106,['field'],,Chemistry,,
+,54.0,26,['field'],,Chemistry,,
+,55.0,107,['field'],,Chemistry,,
+,56.0,34,['field'],,Chemistry,,
+,57.0,75,['field'],,Chemistry,,
+,58.0,36,['field'],,Chemistry,,
+,59.0,22,['field'],,Chemistry,,
+,67.0,56,['field'],,Chemistry,,
+,70.0,29,['field'],,Chemistry,,
+,71.0,23,['field'],,Chemistry,,
+,75.0,20,['field'],,Chemistry,,
+,77.0,47,['field'],,Chemistry,,
+,78.0,29,['field'],,Chemistry,,
+,81.0,54,['field'],,Chemistry,,
+,83.0,54,['field'],,Chemistry,,
+,84.0,139,['field'],,Chemistry,,
+,86.0,30,['field'],,Chemistry,,
+,89.0,82,['field'],,Chemistry,,
+,90.0,86,['field'],,Chemistry,,
+,94.0,522,['field'],,Chemistry,,
+,95.0,156,['field'],,Chemistry,,
+,96.0,68,['field'],,Chemistry,,
+,98.0,42,['field'],,Chemistry,,
+,99.0,102,['field'],,Chemistry,,
+,100.0,56,['field'],,Chemistry,,
+,102.0,216,['field'],,Chemistry,,
+,103.0,29,['field'],,Chemistry,,
+,104.0,33,['field'],,Chemistry,,
+,105.0,21,['field'],,Chemistry,,
+,106.0,109,['field'],,Chemistry,,
+,107.0,109,['field'],,Chemistry,,
+,109.0,221,['field'],,Chemistry,,
+,111.0,41,['field'],,Chemistry,,
+,112.0,25,['field'],,Chemistry,,
+,114.0,42,['field'],,Chemistry,,
+,115.0,11,['field'],,Chemistry,,
+,116.0,54,['field'],,Chemistry,,
+,117.0,31,['field'],,Chemistry,,
+,118.0,75,['field'],,Chemistry,,
+,119.0,148,['field'],,Chemistry,,
+,121.0,28,['field'],,Chemistry,,
+,122.0,33,['field'],,Chemistry,,
+,123.0,40,['field'],,Chemistry,,
+,125.0,32,['field'],,Chemistry,,
+,126.0,112,['field'],,Chemistry,,
+,128.0,112,['field'],,Chemistry,,
+,129.0,35,['field'],,Chemistry,,
+,130.0,62,['field'],,Chemistry,,
+,131.0,66,['field'],,Chemistry,,
+,132.0,20,['field'],,Chemistry,,
+,134.0,17,['field'],,Chemistry,,
+,136.0,25,['field'],,Chemistry,,
+,138.0,115,['field'],,Chemistry,,
+,139.0,39,['field'],,Chemistry,,
+,140.0,87,['field'],,Chemistry,,
+,143.0,25,['field'],,Chemistry,,
+,144.0,47,['field'],,Chemistry,,
+,146.0,60,['field'],,Chemistry,,
+,148.0,75,['field'],,Chemistry,,
+,149.0,42,['field'],,Chemistry,,
+,153.0,25,['field'],,Chemistry,,
+,154.0,213,['field'],,Chemistry,,
+,155.0,57,['field'],,Chemistry,,
+,157.0,263,['field'],,Chemistry,,
+,159.0,16,['field'],,Chemistry,,
+,160.0,17,['field'],,Chemistry,,
+,161.0,51,['field'],,Chemistry,,
+,162.0,88,['field'],,Chemistry,,
+,163.0,76,['field'],,Chemistry,,
+,164.0,28,['field'],,Chemistry,,
+,167.0,121,['field'],,Chemistry,,
+,168.0,135,['field'],,Chemistry,,
+,169.0,33,['field'],,Chemistry,,
+,170.0,58,['field'],,Chemistry,,
+,171.0,60,['field'],,Chemistry,,
+,172.0,38,['field'],,Chemistry,,
+,173.0,31,['field'],,Chemistry,,
+,174.0,24,['field'],,Chemistry,,
+,175.0,58,['field'],,Chemistry,,
+,177.0,28,['field'],,Chemistry,,
+,179.0,97,['field'],,Chemistry,,
+,180.0,37,['field'],,Chemistry,,
+,181.0,317,['field'],,Chemistry,,
+,182.0,16,['field'],,Chemistry,,
+,183.0,33,['field'],,Chemistry,,
+,184.0,16,['field'],,Chemistry,,
+,185.0,115,['field'],,Chemistry,,
+,186.0,40,['field'],,Chemistry,,
+,187.0,55,['field'],,Chemistry,,
+,188.0,43,['field'],,Chemistry,,
+,189.0,40,['field'],,Chemistry,,
+,191.0,211,['field'],,Chemistry,,
+,194.0,155,['field'],,Chemistry,,
+,195.0,97,['field'],,Chemistry,,
+,196.0,54,['field'],,Chemistry,,
+,197.0,59,['field'],,Chemistry,,
+,199.0,15,['field'],,Chemistry,,
+,203.0,61,['field'],,Chemistry,,
+,205.0,24,['field'],,Chemistry,,
+,206.0,23,['field'],,Chemistry,,
+,208.0,43,['field'],,Chemistry,,
+,210.0,15,['field'],,Chemistry,,
+,211.0,11,['field'],,Chemistry,,
+,213.0,120,['field'],,Chemistry,,
+,215.0,18,['field'],,Chemistry,,
+,216.0,208,['field'],,Chemistry,,
+,217.0,30,['field'],,Chemistry,,
+,219.0,41,['field'],,Chemistry,,
+,220.0,18,['field'],,Chemistry,,
+,221.0,120,['field'],,Chemistry,,
+,222.0,128,['field'],,Chemistry,,
+,224.0,49,['field'],,Chemistry,,
+,228.0,53,['field'],,Chemistry,,
+,229.0,36,['field'],,Chemistry,,
+,230.0,16,['field'],,Chemistry,,
+,231.0,63,['field'],,Chemistry,,
+,232.0,65,['field'],,Chemistry,,
+,234.0,35,['field'],,Chemistry,,
+,236.0,70,['field'],,Chemistry,,
+,237.0,24,['field'],,Chemistry,,
+,240.0,45,['field'],,Chemistry,,
+,241.0,81,['field'],,Chemistry,,
+,242.0,28,['field'],,Chemistry,,
+,243.0,25,['field'],,Chemistry,,
+,244.0,129,['field'],,Chemistry,,
+,245.0,29,['field'],,Chemistry,,
+,246.0,25,['field'],,Chemistry,,
+,1.0,139,['field'],,"Chemistry, Textiles",,
+,3.0,60,['field'],,"Chemistry, Textiles",,
+,6.0,74,['field'],,"Chemistry, Textiles",,
+,8.0,56,['field'],,"Chemistry, Textiles",,
+,15.0,32,['field'],,"Chemistry, Textiles",,
+,18.0,70,['field'],,"Chemistry, Textiles",,
+,19.0,153,['field'],,"Chemistry, Textiles",,
+,22.0,69,['field'],,"Chemistry, Textiles",,
+,26.0,135,['field'],,"Chemistry, Textiles",,
+,33.0,132,['field'],,"Chemistry, Textiles",,
+,35.0,53,['field'],,"Chemistry, Textiles",,
+,37.0,126,['field'],,"Chemistry, Textiles",,
+,38.0,151,['field'],,"Chemistry, Textiles",,
+,41.0,104,['field'],,"Chemistry, Textiles",,
+,61.0,130,['field'],,"Chemistry, Textiles",,
+,62.0,27,['field'],,"Chemistry, Textiles",,
+,65.0,185,['field'],,"Chemistry, Textiles",,
+,66.0,15,['field'],,"Chemistry, Textiles",,
+,69.0,67,['field'],,"Chemistry, Textiles",,
+,74.0,59,['field'],,"Chemistry, Textiles",,
+,76.0,79,['field'],,"Chemistry, Textiles",,
+,80.0,50,['field'],,"Chemistry, Textiles",,
+,101.0,108,['field'],,"Chemistry, Textiles",,
+,108.0,34,['field'],,"Chemistry, Textiles",,
+,120.0,35,['field'],,"Chemistry, Textiles",,
+,127.0,34,['field'],,"Chemistry, Textiles",,
+,137.0,128,['field'],,"Chemistry, Textiles",,
+,145.0,39,['field'],,"Chemistry, Textiles",,
+,147.0,121,['field'],,"Chemistry, Textiles",,
+,150.0,39,['field'],,"Chemistry, Textiles",,
+,151.0,21,['field'],,"Chemistry, Textiles",,
+,152.0,50,['field'],,"Chemistry, Textiles",,
+,158.0,52,['field'],,"Chemistry, Textiles",,
+,165.0,40,['field'],,"Chemistry, Textiles",,
+,166.0,420,['field'],,"Chemistry, Textiles",,
+,176.0,43,['field'],,"Chemistry, Textiles",,
+,178.0,136,['field'],,"Chemistry, Textiles",,
+,190.0,27,['field'],,"Chemistry, Textiles",,
+,192.0,138,['field'],,"Chemistry, Textiles",,
+,200.0,58,['field'],,"Chemistry, Textiles",,
+,201.0,145,['field'],,"Chemistry, Textiles",,
+,204.0,156,['field'],,"Chemistry, Textiles",,
+,207.0,57,['field'],,"Chemistry, Textiles",,
+,212.0,608,['field'],,"Chemistry, Textiles",,
+,214.0,14,['field'],,"Chemistry, Textiles",,
+,218.0,32,['field'],,"Chemistry, Textiles",,
+,225.0,14,['field'],,"Chemistry, Textiles",,
+,226.0,20,['field'],,"Chemistry, Textiles",,
+,238.0,39,['field'],,"Chemistry, Textiles",,
+,239.0,63,['field'],,"Chemistry, Textiles",,
+,247.0,60,['field'],,"Chemistry, Textiles",,
+,248.0,127,['field'],,"Chemistry, Textiles",,
+,34.0,145,['field'],,Pharma Chemistry,,
+,45.0,30,['field'],,Pharma Chemistry,,
+,82.0,51,['field'],,Pharma Chemistry,,
+,87.0,21,['field'],,Pharma Chemistry,,
+,91.0,22,['field'],,Pharma Chemistry,,
+,93.0,54,['field'],,Pharma Chemistry,,
+,97.0,142,['field'],,Pharma Chemistry,,
+,110.0,34,['field'],,Pharma Chemistry,,
+,124.0,173,['field'],,Pharma Chemistry,,
+,156.0,72,['field'],,Pharma Chemistry,,
+,193.0,37,['field'],,Pharma Chemistry,,
+,233.0,16,['field'],,Pharma Chemistry,,
+,0.0,69,['language'],,,Deutsch,
+,1.0,139,['language'],,,Deutsch,
+,2.0,24,['language'],,,Deutsch,
+,3.0,60,['language'],,,Deutsch,
+,4.0,23,['language'],,,Deutsch,
+,6.0,74,['language'],,,Deutsch,
+,7.0,15,['language'],,,Deutsch,
+,8.0,56,['language'],,,Deutsch,
+,9.0,74,['language'],,,Deutsch,
+,10.0,16,['language'],,,Deutsch,
+,11.0,105,['language'],,,Deutsch,
+,15.0,32,['language'],,,Deutsch,
+,17.0,14,['language'],,,Deutsch,
+,18.0,70,['language'],,,Deutsch,
+,19.0,153,['language'],,,Deutsch,
+,20.0,21,['language'],,,Deutsch,
+,22.0,69,['language'],,,Deutsch,
+,24.0,32,['language'],,,Deutsch,
+,25.0,14,['language'],,,Deutsch,
+,26.0,135,['language'],,,Deutsch,
+,27.0,107,['language'],,,Deutsch,
+,29.0,36,['language'],,,Deutsch,
+,30.0,122,['language'],,,Deutsch,
+,31.0,147,['language'],,,Deutsch,
+,32.0,21,['language'],,,Deutsch,
+,33.0,132,['language'],,,Deutsch,
+,34.0,145,['language'],,,Deutsch,
+,35.0,53,['language'],,,Deutsch,
+,37.0,126,['language'],,,Deutsch,
+,38.0,151,['language'],,,Deutsch,
+,40.0,27,['language'],,,Deutsch,
+,41.0,104,['language'],,,Deutsch,
+,42.0,24,['language'],,,Deutsch,
+,43.0,18,['language'],,,Deutsch,
+,44.0,14,['language'],,,Deutsch,
+,45.0,30,['language'],,,Deutsch,
+,46.0,283,['language'],,,Deutsch,
+,47.0,217,['language'],,,Deutsch,
+,49.0,39,['language'],,,Deutsch,
+,50.0,18,['language'],,,Deutsch,
+,51.0,13,['language'],,,Deutsch,
+,52.0,37,['language'],,,Deutsch,
+,53.0,106,['language'],,,Deutsch,
+,54.0,26,['language'],,,Deutsch,
+,55.0,107,['language'],,,Deutsch,
+,57.0,75,['language'],,,Deutsch,
+,58.0,36,['language'],,,Deutsch,
+,59.0,22,['language'],,,Deutsch,
+,60.0,31,['language'],,,Deutsch,
+,61.0,130,['language'],,,Deutsch,
+,62.0,27,['language'],,,Deutsch,
+,65.0,185,['language'],,,Deutsch,
+,66.0,15,['language'],,,Deutsch,
+,67.0,56,['language'],,,Deutsch,
+,68.0,98,['language'],,,Deutsch,
+,69.0,67,['language'],,,Deutsch,
+,74.0,59,['language'],,,Deutsch,
+,76.0,79,['language'],,,Deutsch,
+,77.0,47,['language'],,,Deutsch,
+,80.0,50,['language'],,,Deutsch,
+,81.0,54,['language'],,,Deutsch,
+,82.0,51,['language'],,,Deutsch,
+,86.0,30,['language'],,,Deutsch,
+,87.0,21,['language'],,,Deutsch,
+,88.0,38,['language'],,,Deutsch,
+,91.0,22,['language'],,,Deutsch,
+,92.0,16,['language'],,,Deutsch,
+,93.0,54,['language'],,,Deutsch,
+,94.0,522,['language'],,,Deutsch,
+,95.0,156,['language'],,,Deutsch,
+,97.0,142,['language'],,,Deutsch,
+,98.0,42,['language'],,,Deutsch,
+,100.0,56,['language'],,,Deutsch,
+,101.0,108,['language'],,,Deutsch,
+,103.0,29,['language'],,,Deutsch,
+,104.0,33,['language'],,,Deutsch,
+,105.0,21,['language'],,,Deutsch,
+,107.0,109,['language'],,,Deutsch,
+,108.0,34,['language'],,,Deutsch,
+,110.0,34,['language'],,,Deutsch,
+,113.0,24,['language'],,,Deutsch,
+,114.0,42,['language'],,,Deutsch,
+,115.0,11,['language'],,,Deutsch,
+,116.0,54,['language'],,,Deutsch,
+,117.0,31,['language'],,,Deutsch,
+,118.0,75,['language'],,,Deutsch,
+,119.0,148,['language'],,,Deutsch,
+,120.0,35,['language'],,,Deutsch,
+,121.0,28,['language'],,,Deutsch,
+,122.0,33,['language'],,,Deutsch,
+,123.0,40,['language'],,,Deutsch,
+,124.0,173,['language'],,,Deutsch,
+,127.0,34,['language'],,,Deutsch,
+,131.0,66,['language'],,,Deutsch,
+,132.0,20,['language'],,,Deutsch,
+,133.0,14,['language'],,,Deutsch,
+,134.0,17,['language'],,,Deutsch,
+,137.0,128,['language'],,,Deutsch,
+,139.0,39,['language'],,,Deutsch,
+,140.0,87,['language'],,,Deutsch,
+,142.0,27,['language'],,,Deutsch,
+,143.0,25,['language'],,,Deutsch,
+,144.0,47,['language'],,,Deutsch,
+,145.0,39,['language'],,,Deutsch,
+,146.0,60,['language'],,,Deutsch,
+,147.0,121,['language'],,,Deutsch,
+,149.0,42,['language'],,,Deutsch,
+,150.0,39,['language'],,,Deutsch,
+,151.0,21,['language'],,,Deutsch,
+,152.0,50,['language'],,,Deutsch,
+,153.0,25,['language'],,,Deutsch,
+,155.0,57,['language'],,,Deutsch,
+,156.0,72,['language'],,,Deutsch,
+,157.0,263,['language'],,,Deutsch,
+,158.0,52,['language'],,,Deutsch,
+,159.0,16,['language'],,,Deutsch,
+,160.0,17,['language'],,,Deutsch,
+,161.0,51,['language'],,,Deutsch,
+,162.0,88,['language'],,,Deutsch,
+,164.0,28,['language'],,,Deutsch,
+,165.0,40,['language'],,,Deutsch,
+,166.0,420,['language'],,,Deutsch,
+,167.0,121,['language'],,,Deutsch,
+,168.0,135,['language'],,,Deutsch,
+,169.0,33,['language'],,,Deutsch,
+,171.0,60,['language'],,,Deutsch,
+,174.0,24,['language'],,,Deutsch,
+,175.0,58,['language'],,,Deutsch,
+,176.0,43,['language'],,,Deutsch,
+,177.0,28,['language'],,,Deutsch,
+,178.0,136,['language'],,,Deutsch,
+,179.0,97,['language'],,,Deutsch,
+,180.0,37,['language'],,,Deutsch,
+,181.0,317,['language'],,,Deutsch,
+,184.0,16,['language'],,,Deutsch,
+,185.0,115,['language'],,,Deutsch,
+,186.0,40,['language'],,,Deutsch,
+,187.0,55,['language'],,,Deutsch,
+,189.0,40,['language'],,,Deutsch,
+,190.0,27,['language'],,,Deutsch,
+,191.0,211,['language'],,,Deutsch,
+,192.0,138,['language'],,,Deutsch,
+,193.0,37,['language'],,,Deutsch,
+,194.0,155,['language'],,,Deutsch,
+,195.0,97,['language'],,,Deutsch,
+,196.0,54,['language'],,,Deutsch,
+,199.0,15,['language'],,,Deutsch,
+,200.0,58,['language'],,,Deutsch,
+,201.0,145,['language'],,,Deutsch,
+,203.0,61,['language'],,,Deutsch,
+,204.0,156,['language'],,,Deutsch,
+,205.0,24,['language'],,,Deutsch,
+,207.0,57,['language'],,,Deutsch,
+,208.0,43,['language'],,,Deutsch,
+,211.0,11,['language'],,,Deutsch,
+,212.0,608,['language'],,,Deutsch,
+,214.0,14,['language'],,,Deutsch,
+,217.0,30,['language'],,,Deutsch,
+,218.0,32,['language'],,,Deutsch,
+,219.0,41,['language'],,,Deutsch,
+,224.0,49,['language'],,,Deutsch,
+,225.0,14,['language'],,,Deutsch,
+,226.0,20,['language'],,,Deutsch,
+,228.0,53,['language'],,,Deutsch,
+,230.0,16,['language'],,,Deutsch,
+,231.0,63,['language'],,,Deutsch,
+,232.0,65,['language'],,,Deutsch,
+,233.0,16,['language'],,,Deutsch,
+,237.0,24,['language'],,,Deutsch,
+,238.0,39,['language'],,,Deutsch,
+,239.0,63,['language'],,,Deutsch,
+,241.0,81,['language'],,,Deutsch,
+,242.0,28,['language'],,,Deutsch,
+,244.0,129,['language'],,,Deutsch,
+,245.0,29,['language'],,,Deutsch,
+,246.0,25,['language'],,,Deutsch,
+,247.0,60,['language'],,,Deutsch,
+,248.0,127,['language'],,,Deutsch,
+,5.0,47,['language'],,,Français,
+,12.0,106,['language'],,,Français,
+,13.0,39,['language'],,,Français,
+,14.0,127,['language'],,,Français,
+,16.0,48,['language'],,,Français,
+,21.0,42,['language'],,,Français,
+,23.0,24,['language'],,,Français,
+,28.0,65,['language'],,,Français,
+,36.0,160,['language'],,,Français,
+,39.0,111,['language'],,,Français,
+,48.0,181,['language'],,,Français,
+,56.0,34,['language'],,,Français,
+,63.0,22,['language'],,,Français,
+,64.0,96,['language'],,,Français,
+,70.0,29,['language'],,,Français,
+,71.0,23,['language'],,,Français,
+,72.0,82,['language'],,,Français,
+,73.0,22,['language'],,,Français,
+,75.0,20,['language'],,,Français,
+,78.0,29,['language'],,,Français,
+,79.0,53,['language'],,,Français,
+,83.0,54,['language'],,,Français,
+,84.0,139,['language'],,,Français,
+,85.0,113,['language'],,,Français,
+,89.0,82,['language'],,,Français,
+,90.0,86,['language'],,,Français,
+,96.0,68,['language'],,,Français,
+,99.0,102,['language'],,,Français,
+,102.0,216,['language'],,,Français,
+,106.0,109,['language'],,,Français,
+,109.0,221,['language'],,,Français,
+,111.0,41,['language'],,,Français,
+,112.0,25,['language'],,,Français,
+,125.0,32,['language'],,,Français,
+,126.0,112,['language'],,,Français,
+,128.0,112,['language'],,,Français,
+,129.0,35,['language'],,,Français,
+,130.0,62,['language'],,,Français,
+,135.0,33,['language'],,,Français,
+,136.0,25,['language'],,,Français,
+,138.0,115,['language'],,,Français,
+,141.0,190,['language'],,,Français,
+,148.0,75,['language'],,,Français,
+,154.0,213,['language'],,,Français,
+,163.0,76,['language'],,,Français,
+,170.0,58,['language'],,,Français,
+,172.0,38,['language'],,,Français,
+,173.0,31,['language'],,,Français,
+,182.0,16,['language'],,,Français,
+,183.0,33,['language'],,,Français,
+,188.0,43,['language'],,,Français,
+,197.0,59,['language'],,,Français,
+,198.0,20,['language'],,,Français,
+,202.0,34,['language'],,,Français,
+,206.0,23,['language'],,,Français,
+,209.0,300,['language'],,,Français,
+,210.0,15,['language'],,,Français,
+,213.0,120,['language'],,,Français,
+,215.0,18,['language'],,,Français,
+,216.0,208,['language'],,,Français,
+,220.0,18,['language'],,,Français,
+,221.0,120,['language'],,,Français,
+,222.0,128,['language'],,,Français,
+,223.0,125,['language'],,,Français,
+,227.0,227,['language'],,,Français,
+,229.0,36,['language'],,,Français,
+,234.0,35,['language'],,,Français,
+,235.0,30,['language'],,,Français,
+,236.0,70,['language'],,,Français,
+,240.0,45,['language'],,,Français,
+,243.0,25,['language'],,,Français,
+,,69,"['year', 'language']",1st,,Deutsch,0.0
+,,70,"['year', 'language']",1st,,Deutsch,18.0
+,,14,"['year', 'language']",1st,,Deutsch,25.0
+,,107,"['year', 'language']",1st,,Deutsch,27.0
+,,122,"['year', 'language']",1st,,Deutsch,30.0
+,,21,"['year', 'language']",1st,,Deutsch,32.0
+,,145,"['year', 'language']",1st,,Deutsch,34.0
+,,53,"['year', 'language']",1st,,Deutsch,35.0
+,,151,"['year', 'language']",1st,,Deutsch,38.0
+,,104,"['year', 'language']",1st,,Deutsch,41.0
+,,24,"['year', 'language']",1st,,Deutsch,42.0
+,,18,"['year', 'language']",1st,,Deutsch,43.0
+,,30,"['year', 'language']",1st,,Deutsch,45.0
+,,283,"['year', 'language']",1st,,Deutsch,46.0
+,,26,"['year', 'language']",1st,,Deutsch,54.0
+,,75,"['year', 'language']",1st,,Deutsch,57.0
+,,185,"['year', 'language']",1st,,Deutsch,65.0
+,,50,"['year', 'language']",1st,,Deutsch,80.0
+,,51,"['year', 'language']",1st,,Deutsch,82.0
+,,21,"['year', 'language']",1st,,Deutsch,87.0
+,,22,"['year', 'language']",1st,,Deutsch,91.0
+,,54,"['year', 'language']",1st,,Deutsch,93.0
+,,156,"['year', 'language']",1st,,Deutsch,95.0
+,,142,"['year', 'language']",1st,,Deutsch,97.0
+,,21,"['year', 'language']",1st,,Deutsch,105.0
+,,34,"['year', 'language']",1st,,Deutsch,108.0
+,,34,"['year', 'language']",1st,,Deutsch,110.0
+,,42,"['year', 'language']",1st,,Deutsch,114.0
+,,35,"['year', 'language']",1st,,Deutsch,120.0
+,,33,"['year', 'language']",1st,,Deutsch,122.0
+,,40,"['year', 'language']",1st,,Deutsch,123.0
+,,173,"['year', 'language']",1st,,Deutsch,124.0
+,,34,"['year', 'language']",1st,,Deutsch,127.0
+,,128,"['year', 'language']",1st,,Deutsch,137.0
+,,39,"['year', 'language']",1st,,Deutsch,139.0
+,,87,"['year', 'language']",1st,,Deutsch,140.0
+,,57,"['year', 'language']",1st,,Deutsch,155.0
+,,72,"['year', 'language']",1st,,Deutsch,156.0
+,,16,"['year', 'language']",1st,,Deutsch,159.0
+,,88,"['year', 'language']",1st,,Deutsch,162.0
+,,136,"['year', 'language']",1st,,Deutsch,178.0
+,,16,"['year', 'language']",1st,,Deutsch,184.0
+,,115,"['year', 'language']",1st,,Deutsch,185.0
+,,40,"['year', 'language']",1st,,Deutsch,186.0
+,,37,"['year', 'language']",1st,,Deutsch,193.0
+,,54,"['year', 'language']",1st,,Deutsch,196.0
+,,15,"['year', 'language']",1st,,Deutsch,199.0
+,,145,"['year', 'language']",1st,,Deutsch,201.0
+,,156,"['year', 'language']",1st,,Deutsch,204.0
+,,24,"['year', 'language']",1st,,Deutsch,205.0
+,,57,"['year', 'language']",1st,,Deutsch,207.0
+,,11,"['year', 'language']",1st,,Deutsch,211.0
+,,16,"['year', 'language']",1st,,Deutsch,233.0
+,,81,"['year', 'language']",1st,,Deutsch,241.0
+,,129,"['year', 'language']",1st,,Deutsch,244.0
+,,60,"['year', 'language']",1st,,Deutsch,247.0
+,,106,"['year', 'language']",1st,,Français,12.0
+,,39,"['year', 'language']",1st,,Français,13.0
+,,127,"['year', 'language']",1st,,Français,14.0
+,,24,"['year', 'language']",1st,,Français,23.0
+,,160,"['year', 'language']",1st,,Français,36.0
+,,181,"['year', 'language']",1st,,Français,48.0
+,,34,"['year', 'language']",1st,,Français,56.0
+,,29,"['year', 'language']",1st,,Français,70.0
+,,22,"['year', 'language']",1st,,Français,73.0
+,,29,"['year', 'language']",1st,,Français,78.0
+,,53,"['year', 'language']",1st,,Français,79.0
+,,139,"['year', 'language']",1st,,Français,84.0
+,,68,"['year', 'language']",1st,,Français,96.0
+,,216,"['year', 'language']",1st,,Français,102.0
+,,109,"['year', 'language']",1st,,Français,106.0
+,,25,"['year', 'language']",1st,,Français,112.0
+,,112,"['year', 'language']",1st,,Français,128.0
+,,62,"['year', 'language']",1st,,Français,130.0
+,,115,"['year', 'language']",1st,,Français,138.0
+,,190,"['year', 'language']",1st,,Français,141.0
+,,75,"['year', 'language']",1st,,Français,148.0
+,,38,"['year', 'language']",1st,,Français,172.0
+,,16,"['year', 'language']",1st,,Français,182.0
+,,33,"['year', 'language']",1st,,Français,183.0
+,,43,"['year', 'language']",1st,,Français,188.0
+,,59,"['year', 'language']",1st,,Français,197.0
+,,20,"['year', 'language']",1st,,Français,198.0
+,,23,"['year', 'language']",1st,,Français,206.0
+,,300,"['year', 'language']",1st,,Français,209.0
+,,120,"['year', 'language']",1st,,Français,213.0
+,,18,"['year', 'language']",1st,,Français,215.0
+,,18,"['year', 'language']",1st,,Français,220.0
+,,120,"['year', 'language']",1st,,Français,221.0
+,,36,"['year', 'language']",1st,,Français,229.0
+,,70,"['year', 'language']",1st,,Français,236.0
+,,45,"['year', 'language']",1st,,Français,240.0
+,,24,"['year', 'language']",2nd,,Deutsch,2.0
+,,15,"['year', 'language']",2nd,,Deutsch,7.0
+,,74,"['year', 'language']",2nd,,Deutsch,9.0
+,,16,"['year', 'language']",2nd,,Deutsch,10.0
+,,32,"['year', 'language']",2nd,,Deutsch,24.0
+,,36,"['year', 'language']",2nd,,Deutsch,29.0
+,,147,"['year', 'language']",2nd,,Deutsch,31.0
+,,126,"['year', 'language']",2nd,,Deutsch,37.0
+,,14,"['year', 'language']",2nd,,Deutsch,44.0
+,,217,"['year', 'language']",2nd,,Deutsch,47.0
+,,13,"['year', 'language']",2nd,,Deutsch,51.0
+,,107,"['year', 'language']",2nd,,Deutsch,55.0
+,,36,"['year', 'language']",2nd,,Deutsch,58.0
+,,22,"['year', 'language']",2nd,,Deutsch,59.0
+,,31,"['year', 'language']",2nd,,Deutsch,60.0
+,,130,"['year', 'language']",2nd,,Deutsch,61.0
+,,98,"['year', 'language']",2nd,,Deutsch,68.0
+,,79,"['year', 'language']",2nd,,Deutsch,76.0
+,,47,"['year', 'language']",2nd,,Deutsch,77.0
+,,30,"['year', 'language']",2nd,,Deutsch,86.0
+,,38,"['year', 'language']",2nd,,Deutsch,88.0
+,,16,"['year', 'language']",2nd,,Deutsch,92.0
+,,522,"['year', 'language']",2nd,,Deutsch,94.0
+,,108,"['year', 'language']",2nd,,Deutsch,101.0
+,,29,"['year', 'language']",2nd,,Deutsch,103.0
+,,33,"['year', 'language']",2nd,,Deutsch,104.0
+,,24,"['year', 'language']",2nd,,Deutsch,113.0
+,,11,"['year', 'language']",2nd,,Deutsch,115.0
+,,54,"['year', 'language']",2nd,,Deutsch,116.0
+,,148,"['year', 'language']",2nd,,Deutsch,119.0
+,,28,"['year', 'language']",2nd,,Deutsch,121.0
+,,66,"['year', 'language']",2nd,,Deutsch,131.0
+,,20,"['year', 'language']",2nd,,Deutsch,132.0
+,,14,"['year', 'language']",2nd,,Deutsch,133.0
+,,27,"['year', 'language']",2nd,,Deutsch,142.0
+,,60,"['year', 'language']",2nd,,Deutsch,146.0
+,,121,"['year', 'language']",2nd,,Deutsch,147.0
+,,42,"['year', 'language']",2nd,,Deutsch,149.0
+,,21,"['year', 'language']",2nd,,Deutsch,151.0
+,,50,"['year', 'language']",2nd,,Deutsch,152.0
+,,25,"['year', 'language']",2nd,,Deutsch,153.0
+,,263,"['year', 'language']",2nd,,Deutsch,157.0
+,,52,"['year', 'language']",2nd,,Deutsch,158.0
+,,40,"['year', 'language']",2nd,,Deutsch,165.0
+,,121,"['year', 'language']",2nd,,Deutsch,167.0
+,,135,"['year', 'language']",2nd,,Deutsch,168.0
+,,33,"['year', 'language']",2nd,,Deutsch,169.0
+,,60,"['year', 'language']",2nd,,Deutsch,171.0
+,,24,"['year', 'language']",2nd,,Deutsch,174.0
+,,58,"['year', 'language']",2nd,,Deutsch,175.0
+,,43,"['year', 'language']",2nd,,Deutsch,176.0
+,,28,"['year', 'language']",2nd,,Deutsch,177.0
+,,97,"['year', 'language']",2nd,,Deutsch,179.0
+,,37,"['year', 'language']",2nd,,Deutsch,180.0
+,,317,"['year', 'language']",2nd,,Deutsch,181.0
+,,55,"['year', 'language']",2nd,,Deutsch,187.0
+,,40,"['year', 'language']",2nd,,Deutsch,189.0
+,,27,"['year', 'language']",2nd,,Deutsch,190.0
+,,211,"['year', 'language']",2nd,,Deutsch,191.0
+,,97,"['year', 'language']",2nd,,Deutsch,195.0
+,,58,"['year', 'language']",2nd,,Deutsch,200.0
+,,61,"['year', 'language']",2nd,,Deutsch,203.0
+,,30,"['year', 'language']",2nd,,Deutsch,217.0
+,,32,"['year', 'language']",2nd,,Deutsch,218.0
+,,49,"['year', 'language']",2nd,,Deutsch,224.0
+,,14,"['year', 'language']",2nd,,Deutsch,225.0
+,,53,"['year', 'language']",2nd,,Deutsch,228.0
+,,16,"['year', 'language']",2nd,,Deutsch,230.0
+,,63,"['year', 'language']",2nd,,Deutsch,231.0
+,,65,"['year', 'language']",2nd,,Deutsch,232.0
+,,24,"['year', 'language']",2nd,,Deutsch,237.0
+,,28,"['year', 'language']",2nd,,Deutsch,242.0
+,,25,"['year', 'language']",2nd,,Deutsch,246.0
+,,47,"['year', 'language']",2nd,,Français,5.0
+,,48,"['year', 'language']",2nd,,Français,16.0
+,,42,"['year', 'language']",2nd,,Français,21.0
+,,65,"['year', 'language']",2nd,,Français,28.0
+,,111,"['year', 'language']",2nd,,Français,39.0
+,,22,"['year', 'language']",2nd,,Français,63.0
+,,96,"['year', 'language']",2nd,,Français,64.0
+,,23,"['year', 'language']",2nd,,Français,71.0
+,,82,"['year', 'language']",2nd,,Français,72.0
+,,20,"['year', 'language']",2nd,,Français,75.0
+,,54,"['year', 'language']",2nd,,Français,83.0
+,,113,"['year', 'language']",2nd,,Français,85.0
+,,82,"['year', 'language']",2nd,,Français,89.0
+,,86,"['year', 'language']",2nd,,Français,90.0
+,,102,"['year', 'language']",2nd,,Français,99.0
+,,221,"['year', 'language']",2nd,,Français,109.0
+,,41,"['year', 'language']",2nd,,Français,111.0
+,,32,"['year', 'language']",2nd,,Français,125.0
+,,112,"['year', 'language']",2nd,,Français,126.0
+,,35,"['year', 'language']",2nd,,Français,129.0
+,,33,"['year', 'language']",2nd,,Français,135.0
+,,25,"['year', 'language']",2nd,,Français,136.0
+,,213,"['year', 'language']",2nd,,Français,154.0
+,,76,"['year', 'language']",2nd,,Français,163.0
+,,58,"['year', 'language']",2nd,,Français,170.0
+,,31,"['year', 'language']",2nd,,Français,173.0
+,,34,"['year', 'language']",2nd,,Français,202.0
+,,15,"['year', 'language']",2nd,,Français,210.0
+,,208,"['year', 'language']",2nd,,Français,216.0
+,,128,"['year', 'language']",2nd,,Français,222.0
+,,125,"['year', 'language']",2nd,,Français,223.0
+,,227,"['year', 'language']",2nd,,Français,227.0
+,,35,"['year', 'language']",2nd,,Français,234.0
+,,30,"['year', 'language']",2nd,,Français,235.0
+,,25,"['year', 'language']",2nd,,Français,243.0
+,,139,"['year', 'language']",3rd,,Deutsch,1.0
+,,60,"['year', 'language']",3rd,,Deutsch,3.0
+,,23,"['year', 'language']",3rd,,Deutsch,4.0
+,,74,"['year', 'language']",3rd,,Deutsch,6.0
+,,56,"['year', 'language']",3rd,,Deutsch,8.0
+,,105,"['year', 'language']",3rd,,Deutsch,11.0
+,,32,"['year', 'language']",3rd,,Deutsch,15.0
+,,14,"['year', 'language']",3rd,,Deutsch,17.0
+,,153,"['year', 'language']",3rd,,Deutsch,19.0
+,,21,"['year', 'language']",3rd,,Deutsch,20.0
+,,69,"['year', 'language']",3rd,,Deutsch,22.0
+,,135,"['year', 'language']",3rd,,Deutsch,26.0
+,,132,"['year', 'language']",3rd,,Deutsch,33.0
+,,27,"['year', 'language']",3rd,,Deutsch,40.0
+,,39,"['year', 'language']",3rd,,Deutsch,49.0
+,,18,"['year', 'language']",3rd,,Deutsch,50.0
+,,37,"['year', 'language']",3rd,,Deutsch,52.0
+,,106,"['year', 'language']",3rd,,Deutsch,53.0
+,,27,"['year', 'language']",3rd,,Deutsch,62.0
+,,15,"['year', 'language']",3rd,,Deutsch,66.0
+,,56,"['year', 'language']",3rd,,Deutsch,67.0
+,,67,"['year', 'language']",3rd,,Deutsch,69.0
+,,59,"['year', 'language']",3rd,,Deutsch,74.0
+,,54,"['year', 'language']",3rd,,Deutsch,81.0
+,,42,"['year', 'language']",3rd,,Deutsch,98.0
+,,56,"['year', 'language']",3rd,,Deutsch,100.0
+,,109,"['year', 'language']",3rd,,Deutsch,107.0
+,,31,"['year', 'language']",3rd,,Deutsch,117.0
+,,75,"['year', 'language']",3rd,,Deutsch,118.0
+,,17,"['year', 'language']",3rd,,Deutsch,134.0
+,,25,"['year', 'language']",3rd,,Deutsch,143.0
+,,47,"['year', 'language']",3rd,,Deutsch,144.0
+,,39,"['year', 'language']",3rd,,Deutsch,145.0
+,,39,"['year', 'language']",3rd,,Deutsch,150.0
+,,17,"['year', 'language']",3rd,,Deutsch,160.0
+,,51,"['year', 'language']",3rd,,Deutsch,161.0
+,,28,"['year', 'language']",3rd,,Deutsch,164.0
+,,420,"['year', 'language']",3rd,,Deutsch,166.0
+,,138,"['year', 'language']",3rd,,Deutsch,192.0
+,,155,"['year', 'language']",3rd,,Deutsch,194.0
+,,43,"['year', 'language']",3rd,,Deutsch,208.0
+,,608,"['year', 'language']",3rd,,Deutsch,212.0
+,,14,"['year', 'language']",3rd,,Deutsch,214.0
+,,41,"['year', 'language']",3rd,,Deutsch,219.0
+,,20,"['year', 'language']",3rd,,Deutsch,226.0
+,,39,"['year', 'language']",3rd,,Deutsch,238.0
+,,63,"['year', 'language']",3rd,,Deutsch,239.0
+,,29,"['year', 'language']",3rd,,Deutsch,245.0
+,,127,"['year', 'language']",3rd,,Deutsch,248.0
+,,22,"['year', 'field']",1st,Biology,,73.0
+,,53,"['year', 'field']",1st,Biology,,79.0
+,,190,"['year', 'field']",1st,Biology,,141.0
+,,20,"['year', 'field']",1st,Biology,,198.0
+,,300,"['year', 'field']",1st,Biology,,209.0
+,,69,"['year', 'field']",1st,Chemistry,,0.0
+,,106,"['year', 'field']",1st,Chemistry,,12.0
+,,39,"['year', 'field']",1st,Chemistry,,13.0
+,,127,"['year', 'field']",1st,Chemistry,,14.0
+,,24,"['year', 'field']",1st,Chemistry,,23.0
+,,14,"['year', 'field']",1st,Chemistry,,25.0
+,,107,"['year', 'field']",1st,Chemistry,,27.0
+,,122,"['year', 'field']",1st,Chemistry,,30.0
+,,21,"['year', 'field']",1st,Chemistry,,32.0
+,,160,"['year', 'field']",1st,Chemistry,,36.0
+,,24,"['year', 'field']",1st,Chemistry,,42.0
+,,18,"['year', 'field']",1st,Chemistry,,43.0
+,,283,"['year', 'field']",1st,Chemistry,,46.0
+,,181,"['year', 'field']",1st,Chemistry,,48.0
+,,26,"['year', 'field']",1st,Chemistry,,54.0
+,,34,"['year', 'field']",1st,Chemistry,,56.0
+,,75,"['year', 'field']",1st,Chemistry,,57.0
+,,29,"['year', 'field']",1st,Chemistry,,70.0
+,,29,"['year', 'field']",1st,Chemistry,,78.0
+,,139,"['year', 'field']",1st,Chemistry,,84.0
+,,156,"['year', 'field']",1st,Chemistry,,95.0
+,,68,"['year', 'field']",1st,Chemistry,,96.0
+,,216,"['year', 'field']",1st,Chemistry,,102.0
+,,21,"['year', 'field']",1st,Chemistry,,105.0
+,,109,"['year', 'field']",1st,Chemistry,,106.0
+,,25,"['year', 'field']",1st,Chemistry,,112.0
+,,42,"['year', 'field']",1st,Chemistry,,114.0
+,,33,"['year', 'field']",1st,Chemistry,,122.0
+,,40,"['year', 'field']",1st,Chemistry,,123.0
+,,112,"['year', 'field']",1st,Chemistry,,128.0
+,,62,"['year', 'field']",1st,Chemistry,,130.0
+,,115,"['year', 'field']",1st,Chemistry,,138.0
+,,39,"['year', 'field']",1st,Chemistry,,139.0
+,,87,"['year', 'field']",1st,Chemistry,,140.0
+,,75,"['year', 'field']",1st,Chemistry,,148.0
+,,57,"['year', 'field']",1st,Chemistry,,155.0
+,,16,"['year', 'field']",1st,Chemistry,,159.0
+,,88,"['year', 'field']",1st,Chemistry,,162.0
+,,38,"['year', 'field']",1st,Chemistry,,172.0
+,,16,"['year', 'field']",1st,Chemistry,,182.0
+,,33,"['year', 'field']",1st,Chemistry,,183.0
+,,16,"['year', 'field']",1st,Chemistry,,184.0
+,,115,"['year', 'field']",1st,Chemistry,,185.0
+,,40,"['year', 'field']",1st,Chemistry,,186.0
+,,43,"['year', 'field']",1st,Chemistry,,188.0
+,,54,"['year', 'field']",1st,Chemistry,,196.0
+,,59,"['year', 'field']",1st,Chemistry,,197.0
+,,15,"['year', 'field']",1st,Chemistry,,199.0
+,,24,"['year', 'field']",1st,Chemistry,,205.0
+,,23,"['year', 'field']",1st,Chemistry,,206.0
+,,11,"['year', 'field']",1st,Chemistry,,211.0
+,,120,"['year', 'field']",1st,Chemistry,,213.0
+,,18,"['year', 'field']",1st,Chemistry,,215.0
+,,18,"['year', 'field']",1st,Chemistry,,220.0
+,,120,"['year', 'field']",1st,Chemistry,,221.0
+,,36,"['year', 'field']",1st,Chemistry,,229.0
+,,70,"['year', 'field']",1st,Chemistry,,236.0
+,,45,"['year', 'field']",1st,Chemistry,,240.0
+,,81,"['year', 'field']",1st,Chemistry,,241.0
+,,129,"['year', 'field']",1st,Chemistry,,244.0
+,,70,"['year', 'field']",1st,"Chemistry, Textiles",,18.0
+,,53,"['year', 'field']",1st,"Chemistry, Textiles",,35.0
+,,151,"['year', 'field']",1st,"Chemistry, Textiles",,38.0
+,,104,"['year', 'field']",1st,"Chemistry, Textiles",,41.0
+,,185,"['year', 'field']",1st,"Chemistry, Textiles",,65.0
+,,50,"['year', 'field']",1st,"Chemistry, Textiles",,80.0
+,,34,"['year', 'field']",1st,"Chemistry, Textiles",,108.0
+,,35,"['year', 'field']",1st,"Chemistry, Textiles",,120.0
+,,34,"['year', 'field']",1st,"Chemistry, Textiles",,127.0
+,,128,"['year', 'field']",1st,"Chemistry, Textiles",,137.0
+,,136,"['year', 'field']",1st,"Chemistry, Textiles",,178.0
+,,145,"['year', 'field']",1st,"Chemistry, Textiles",,201.0
+,,156,"['year', 'field']",1st,"Chemistry, Textiles",,204.0
+,,57,"['year', 'field']",1st,"Chemistry, Textiles",,207.0
+,,60,"['year', 'field']",1st,"Chemistry, Textiles",,247.0
+,,145,"['year', 'field']",1st,Pharma Chemistry,,34.0
+,,30,"['year', 'field']",1st,Pharma Chemistry,,45.0
+,,51,"['year', 'field']",1st,Pharma Chemistry,,82.0
+,,21,"['year', 'field']",1st,Pharma Chemistry,,87.0
+,,22,"['year', 'field']",1st,Pharma Chemistry,,91.0
+,,54,"['year', 'field']",1st,Pharma Chemistry,,93.0
+,,142,"['year', 'field']",1st,Pharma Chemistry,,97.0
+,,34,"['year', 'field']",1st,Pharma Chemistry,,110.0
+,,173,"['year', 'field']",1st,Pharma Chemistry,,124.0
+,,72,"['year', 'field']",1st,Pharma Chemistry,,156.0
+,,37,"['year', 'field']",1st,Pharma Chemistry,,193.0
+,,16,"['year', 'field']",1st,Pharma Chemistry,,233.0
+,,74,"['year', 'field']",2nd,Biology,,9.0
+,,16,"['year', 'field']",2nd,Biology,,10.0
+,,65,"['year', 'field']",2nd,Biology,,28.0
+,,14,"['year', 'field']",2nd,Biology,,44.0
+,,31,"['year', 'field']",2nd,Biology,,60.0
+,,22,"['year', 'field']",2nd,Biology,,63.0
+,,96,"['year', 'field']",2nd,Biology,,64.0
+,,98,"['year', 'field']",2nd,Biology,,68.0
+,,82,"['year', 'field']",2nd,Biology,,72.0
+,,113,"['year', 'field']",2nd,Biology,,85.0
+,,38,"['year', 'field']",2nd,Biology,,88.0
+,,16,"['year', 'field']",2nd,Biology,,92.0
+,,24,"['year', 'field']",2nd,Biology,,113.0
+,,14,"['year', 'field']",2nd,Biology,,133.0
+,,33,"['year', 'field']",2nd,Biology,,135.0
+,,27,"['year', 'field']",2nd,Biology,,142.0
+,,34,"['year', 'field']",2nd,Biology,,202.0
+,,125,"['year', 'field']",2nd,Biology,,223.0
+,,227,"['year', 'field']",2nd,Biology,,227.0
+,,30,"['year', 'field']",2nd,Biology,,235.0
+,,24,"['year', 'field']",2nd,Chemistry,,2.0
+,,47,"['year', 'field']",2nd,Chemistry,,5.0
+,,15,"['year', 'field']",2nd,Chemistry,,7.0
+,,48,"['year', 'field']",2nd,Chemistry,,16.0
+,,42,"['year', 'field']",2nd,Chemistry,,21.0
+,,32,"['year', 'field']",2nd,Chemistry,,24.0
+,,36,"['year', 'field']",2nd,Chemistry,,29.0
+,,147,"['year', 'field']",2nd,Chemistry,,31.0
+,,111,"['year', 'field']",2nd,Chemistry,,39.0
+,,217,"['year', 'field']",2nd,Chemistry,,47.0
+,,13,"['year', 'field']",2nd,Chemistry,,51.0
+,,107,"['year', 'field']",2nd,Chemistry,,55.0
+,,36,"['year', 'field']",2nd,Chemistry,,58.0
+,,22,"['year', 'field']",2nd,Chemistry,,59.0
+,,23,"['year', 'field']",2nd,Chemistry,,71.0
+,,20,"['year', 'field']",2nd,Chemistry,,75.0
+,,47,"['year', 'field']",2nd,Chemistry,,77.0
+,,54,"['year', 'field']",2nd,Chemistry,,83.0
+,,30,"['year', 'field']",2nd,Chemistry,,86.0
+,,82,"['year', 'field']",2nd,Chemistry,,89.0
+,,86,"['year', 'field']",2nd,Chemistry,,90.0
+,,522,"['year', 'field']",2nd,Chemistry,,94.0
+,,102,"['year', 'field']",2nd,Chemistry,,99.0
+,,29,"['year', 'field']",2nd,Chemistry,,103.0
+,,33,"['year', 'field']",2nd,Chemistry,,104.0
+,,221,"['year', 'field']",2nd,Chemistry,,109.0
+,,41,"['year', 'field']",2nd,Chemistry,,111.0
+,,11,"['year', 'field']",2nd,Chemistry,,115.0
+,,54,"['year', 'field']",2nd,Chemistry,,116.0
+,,148,"['year', 'field']",2nd,Chemistry,,119.0
+,,28,"['year', 'field']",2nd,Chemistry,,121.0
+,,32,"['year', 'field']",2nd,Chemistry,,125.0
+,,112,"['year', 'field']",2nd,Chemistry,,126.0
+,,35,"['year', 'field']",2nd,Chemistry,,129.0
+,,66,"['year', 'field']",2nd,Chemistry,,131.0
+,,20,"['year', 'field']",2nd,Chemistry,,132.0
+,,25,"['year', 'field']",2nd,Chemistry,,136.0
+,,60,"['year', 'field']",2nd,Chemistry,,146.0
+,,42,"['year', 'field']",2nd,Chemistry,,149.0
+,,25,"['year', 'field']",2nd,Chemistry,,153.0
+,,213,"['year', 'field']",2nd,Chemistry,,154.0
+,,263,"['year', 'field']",2nd,Chemistry,,157.0
+,,76,"['year', 'field']",2nd,Chemistry,,163.0
+,,121,"['year', 'field']",2nd,Chemistry,,167.0
+,,135,"['year', 'field']",2nd,Chemistry,,168.0
+,,33,"['year', 'field']",2nd,Chemistry,,169.0
+,,58,"['year', 'field']",2nd,Chemistry,,170.0
+,,60,"['year', 'field']",2nd,Chemistry,,171.0
+,,31,"['year', 'field']",2nd,Chemistry,,173.0
+,,24,"['year', 'field']",2nd,Chemistry,,174.0
+,,58,"['year', 'field']",2nd,Chemistry,,175.0
+,,28,"['year', 'field']",2nd,Chemistry,,177.0
+,,97,"['year', 'field']",2nd,Chemistry,,179.0
+,,37,"['year', 'field']",2nd,Chemistry,,180.0
+,,317,"['year', 'field']",2nd,Chemistry,,181.0
+,,55,"['year', 'field']",2nd,Chemistry,,187.0
+,,40,"['year', 'field']",2nd,Chemistry,,189.0
+,,211,"['year', 'field']",2nd,Chemistry,,191.0
+,,97,"['year', 'field']",2nd,Chemistry,,195.0
+,,61,"['year', 'field']",2nd,Chemistry,,203.0
+,,15,"['year', 'field']",2nd,Chemistry,,210.0
+,,208,"['year', 'field']",2nd,Chemistry,,216.0
+,,30,"['year', 'field']",2nd,Chemistry,,217.0
+,,128,"['year', 'field']",2nd,Chemistry,,222.0
+,,49,"['year', 'field']",2nd,Chemistry,,224.0
+,,53,"['year', 'field']",2nd,Chemistry,,228.0
+,,16,"['year', 'field']",2nd,Chemistry,,230.0
+,,63,"['year', 'field']",2nd,Chemistry,,231.0
+,,65,"['year', 'field']",2nd,Chemistry,,232.0
+,,35,"['year', 'field']",2nd,Chemistry,,234.0
+,,24,"['year', 'field']",2nd,Chemistry,,237.0
+,,28,"['year', 'field']",2nd,Chemistry,,242.0
+,,25,"['year', 'field']",2nd,Chemistry,,243.0
+,,25,"['year', 'field']",2nd,Chemistry,,246.0
+,,126,"['year', 'field']",2nd,"Chemistry, Textiles",,37.0
+,,130,"['year', 'field']",2nd,"Chemistry, Textiles",,61.0
+,,79,"['year', 'field']",2nd,"Chemistry, Textiles",,76.0
+,,108,"['year', 'field']",2nd,"Chemistry, Textiles",,101.0
+,,121,"['year', 'field']",2nd,"Chemistry, Textiles",,147.0
+,,21,"['year', 'field']",2nd,"Chemistry, Textiles",,151.0
+,,50,"['year', 'field']",2nd,"Chemistry, Textiles",,152.0
+,,52,"['year', 'field']",2nd,"Chemistry, Textiles",,158.0
+,,40,"['year', 'field']",2nd,"Chemistry, Textiles",,165.0
+,,43,"['year', 'field']",2nd,"Chemistry, Textiles",,176.0
+,,27,"['year', 'field']",2nd,"Chemistry, Textiles",,190.0
+,,58,"['year', 'field']",2nd,"Chemistry, Textiles",,200.0
+,,32,"['year', 'field']",2nd,"Chemistry, Textiles",,218.0
+,,14,"['year', 'field']",2nd,"Chemistry, Textiles",,225.0
+,,23,"['year', 'field']",3rd,Chemistry,,4.0
+,,105,"['year', 'field']",3rd,Chemistry,,11.0
+,,14,"['year', 'field']",3rd,Chemistry,,17.0
+,,21,"['year', 'field']",3rd,Chemistry,,20.0
+,,27,"['year', 'field']",3rd,Chemistry,,40.0
+,,39,"['year', 'field']",3rd,Chemistry,,49.0
+,,18,"['year', 'field']",3rd,Chemistry,,50.0
+,,37,"['year', 'field']",3rd,Chemistry,,52.0
+,,106,"['year', 'field']",3rd,Chemistry,,53.0
+,,56,"['year', 'field']",3rd,Chemistry,,67.0
+,,54,"['year', 'field']",3rd,Chemistry,,81.0
+,,42,"['year', 'field']",3rd,Chemistry,,98.0
+,,56,"['year', 'field']",3rd,Chemistry,,100.0
+,,109,"['year', 'field']",3rd,Chemistry,,107.0
+,,31,"['year', 'field']",3rd,Chemistry,,117.0
+,,75,"['year', 'field']",3rd,Chemistry,,118.0
+,,17,"['year', 'field']",3rd,Chemistry,,134.0
+,,25,"['year', 'field']",3rd,Chemistry,,143.0
+,,47,"['year', 'field']",3rd,Chemistry,,144.0
+,,17,"['year', 'field']",3rd,Chemistry,,160.0
+,,51,"['year', 'field']",3rd,Chemistry,,161.0
+,,28,"['year', 'field']",3rd,Chemistry,,164.0
+,,155,"['year', 'field']",3rd,Chemistry,,194.0
+,,43,"['year', 'field']",3rd,Chemistry,,208.0
+,,41,"['year', 'field']",3rd,Chemistry,,219.0
+,,29,"['year', 'field']",3rd,Chemistry,,245.0
+,,139,"['year', 'field']",3rd,"Chemistry, Textiles",,1.0
+,,60,"['year', 'field']",3rd,"Chemistry, Textiles",,3.0
+,,74,"['year', 'field']",3rd,"Chemistry, Textiles",,6.0
+,,56,"['year', 'field']",3rd,"Chemistry, Textiles",,8.0
+,,32,"['year', 'field']",3rd,"Chemistry, Textiles",,15.0
+,,153,"['year', 'field']",3rd,"Chemistry, Textiles",,19.0
+,,69,"['year', 'field']",3rd,"Chemistry, Textiles",,22.0
+,,135,"['year', 'field']",3rd,"Chemistry, Textiles",,26.0
+,,132,"['year', 'field']",3rd,"Chemistry, Textiles",,33.0
+,,27,"['year', 'field']",3rd,"Chemistry, Textiles",,62.0
+,,15,"['year', 'field']",3rd,"Chemistry, Textiles",,66.0
+,,67,"['year', 'field']",3rd,"Chemistry, Textiles",,69.0
+,,59,"['year', 'field']",3rd,"Chemistry, Textiles",,74.0
+,,39,"['year', 'field']",3rd,"Chemistry, Textiles",,145.0
+,,39,"['year', 'field']",3rd,"Chemistry, Textiles",,150.0
+,,420,"['year', 'field']",3rd,"Chemistry, Textiles",,166.0
+,,138,"['year', 'field']",3rd,"Chemistry, Textiles",,192.0
+,,608,"['year', 'field']",3rd,"Chemistry, Textiles",,212.0
+,,14,"['year', 'field']",3rd,"Chemistry, Textiles",,214.0
+,,20,"['year', 'field']",3rd,"Chemistry, Textiles",,226.0
+,,39,"['year', 'field']",3rd,"Chemistry, Textiles",,238.0
+,,63,"['year', 'field']",3rd,"Chemistry, Textiles",,239.0
+,,127,"['year', 'field']",3rd,"Chemistry, Textiles",,248.0
+,,74,"['field', 'language']",,Biology,Deutsch,9.0
+,,16,"['field', 'language']",,Biology,Deutsch,10.0
+,,14,"['field', 'language']",,Biology,Deutsch,44.0
+,,31,"['field', 'language']",,Biology,Deutsch,60.0
+,,98,"['field', 'language']",,Biology,Deutsch,68.0
+,,38,"['field', 'language']",,Biology,Deutsch,88.0
+,,16,"['field', 'language']",,Biology,Deutsch,92.0
+,,24,"['field', 'language']",,Biology,Deutsch,113.0
+,,14,"['field', 'language']",,Biology,Deutsch,133.0
+,,27,"['field', 'language']",,Biology,Deutsch,142.0
+,,65,"['field', 'language']",,Biology,Français,28.0
+,,22,"['field', 'language']",,Biology,Français,63.0
+,,96,"['field', 'language']",,Biology,Français,64.0
+,,82,"['field', 'language']",,Biology,Français,72.0
+,,22,"['field', 'language']",,Biology,Français,73.0
+,,53,"['field', 'language']",,Biology,Français,79.0
+,,113,"['field', 'language']",,Biology,Français,85.0
+,,33,"['field', 'language']",,Biology,Français,135.0
+,,190,"['field', 'language']",,Biology,Français,141.0
+,,20,"['field', 'language']",,Biology,Français,198.0
+,,34,"['field', 'language']",,Biology,Français,202.0
+,,300,"['field', 'language']",,Biology,Français,209.0
+,,125,"['field', 'language']",,Biology,Français,223.0
+,,227,"['field', 'language']",,Biology,Français,227.0
+,,30,"['field', 'language']",,Biology,Français,235.0
+,,69,"['field', 'language']",,Chemistry,Deutsch,0.0
+,,24,"['field', 'language']",,Chemistry,Deutsch,2.0
+,,23,"['field', 'language']",,Chemistry,Deutsch,4.0
+,,15,"['field', 'language']",,Chemistry,Deutsch,7.0
+,,105,"['field', 'language']",,Chemistry,Deutsch,11.0
+,,14,"['field', 'language']",,Chemistry,Deutsch,17.0
+,,21,"['field', 'language']",,Chemistry,Deutsch,20.0
+,,32,"['field', 'language']",,Chemistry,Deutsch,24.0
+,,14,"['field', 'language']",,Chemistry,Deutsch,25.0
+,,107,"['field', 'language']",,Chemistry,Deutsch,27.0
+,,36,"['field', 'language']",,Chemistry,Deutsch,29.0
+,,122,"['field', 'language']",,Chemistry,Deutsch,30.0
+,,147,"['field', 'language']",,Chemistry,Deutsch,31.0
+,,21,"['field', 'language']",,Chemistry,Deutsch,32.0
+,,27,"['field', 'language']",,Chemistry,Deutsch,40.0
+,,24,"['field', 'language']",,Chemistry,Deutsch,42.0
+,,18,"['field', 'language']",,Chemistry,Deutsch,43.0
+,,283,"['field', 'language']",,Chemistry,Deutsch,46.0
+,,217,"['field', 'language']",,Chemistry,Deutsch,47.0
+,,39,"['field', 'language']",,Chemistry,Deutsch,49.0
+,,18,"['field', 'language']",,Chemistry,Deutsch,50.0
+,,13,"['field', 'language']",,Chemistry,Deutsch,51.0
+,,37,"['field', 'language']",,Chemistry,Deutsch,52.0
+,,106,"['field', 'language']",,Chemistry,Deutsch,53.0
+,,26,"['field', 'language']",,Chemistry,Deutsch,54.0
+,,107,"['field', 'language']",,Chemistry,Deutsch,55.0
+,,75,"['field', 'language']",,Chemistry,Deutsch,57.0
+,,36,"['field', 'language']",,Chemistry,Deutsch,58.0
+,,22,"['field', 'language']",,Chemistry,Deutsch,59.0
+,,56,"['field', 'language']",,Chemistry,Deutsch,67.0
+,,47,"['field', 'language']",,Chemistry,Deutsch,77.0
+,,54,"['field', 'language']",,Chemistry,Deutsch,81.0
+,,30,"['field', 'language']",,Chemistry,Deutsch,86.0
+,,522,"['field', 'language']",,Chemistry,Deutsch,94.0
+,,156,"['field', 'language']",,Chemistry,Deutsch,95.0
+,,42,"['field', 'language']",,Chemistry,Deutsch,98.0
+,,56,"['field', 'language']",,Chemistry,Deutsch,100.0
+,,29,"['field', 'language']",,Chemistry,Deutsch,103.0
+,,33,"['field', 'language']",,Chemistry,Deutsch,104.0
+,,21,"['field', 'language']",,Chemistry,Deutsch,105.0
+,,109,"['field', 'language']",,Chemistry,Deutsch,107.0
+,,42,"['field', 'language']",,Chemistry,Deutsch,114.0
+,,11,"['field', 'language']",,Chemistry,Deutsch,115.0
+,,54,"['field', 'language']",,Chemistry,Deutsch,116.0
+,,31,"['field', 'language']",,Chemistry,Deutsch,117.0
+,,75,"['field', 'language']",,Chemistry,Deutsch,118.0
+,,148,"['field', 'language']",,Chemistry,Deutsch,119.0
+,,28,"['field', 'language']",,Chemistry,Deutsch,121.0
+,,33,"['field', 'language']",,Chemistry,Deutsch,122.0
+,,40,"['field', 'language']",,Chemistry,Deutsch,123.0
+,,66,"['field', 'language']",,Chemistry,Deutsch,131.0
+,,20,"['field', 'language']",,Chemistry,Deutsch,132.0
+,,17,"['field', 'language']",,Chemistry,Deutsch,134.0
+,,39,"['field', 'language']",,Chemistry,Deutsch,139.0
+,,87,"['field', 'language']",,Chemistry,Deutsch,140.0
+,,25,"['field', 'language']",,Chemistry,Deutsch,143.0
+,,47,"['field', 'language']",,Chemistry,Deutsch,144.0
+,,60,"['field', 'language']",,Chemistry,Deutsch,146.0
+,,42,"['field', 'language']",,Chemistry,Deutsch,149.0
+,,25,"['field', 'language']",,Chemistry,Deutsch,153.0
+,,57,"['field', 'language']",,Chemistry,Deutsch,155.0
+,,263,"['field', 'language']",,Chemistry,Deutsch,157.0
+,,16,"['field', 'language']",,Chemistry,Deutsch,159.0
+,,17,"['field', 'language']",,Chemistry,Deutsch,160.0
+,,51,"['field', 'language']",,Chemistry,Deutsch,161.0
+,,88,"['field', 'language']",,Chemistry,Deutsch,162.0
+,,28,"['field', 'language']",,Chemistry,Deutsch,164.0
+,,121,"['field', 'language']",,Chemistry,Deutsch,167.0
+,,135,"['field', 'language']",,Chemistry,Deutsch,168.0
+,,33,"['field', 'language']",,Chemistry,Deutsch,169.0
+,,60,"['field', 'language']",,Chemistry,Deutsch,171.0
+,,24,"['field', 'language']",,Chemistry,Deutsch,174.0
+,,58,"['field', 'language']",,Chemistry,Deutsch,175.0
+,,28,"['field', 'language']",,Chemistry,Deutsch,177.0
+,,97,"['field', 'language']",,Chemistry,Deutsch,179.0
+,,37,"['field', 'language']",,Chemistry,Deutsch,180.0
+,,317,"['field', 'language']",,Chemistry,Deutsch,181.0
+,,16,"['field', 'language']",,Chemistry,Deutsch,184.0
+,,115,"['field', 'language']",,Chemistry,Deutsch,185.0
+,,40,"['field', 'language']",,Chemistry,Deutsch,186.0
+,,55,"['field', 'language']",,Chemistry,Deutsch,187.0
+,,40,"['field', 'language']",,Chemistry,Deutsch,189.0
+,,211,"['field', 'language']",,Chemistry,Deutsch,191.0
+,,155,"['field', 'language']",,Chemistry,Deutsch,194.0
+,,97,"['field', 'language']",,Chemistry,Deutsch,195.0
+,,54,"['field', 'language']",,Chemistry,Deutsch,196.0
+,,15,"['field', 'language']",,Chemistry,Deutsch,199.0
+,,61,"['field', 'language']",,Chemistry,Deutsch,203.0
+,,24,"['field', 'language']",,Chemistry,Deutsch,205.0
+,,43,"['field', 'language']",,Chemistry,Deutsch,208.0
+,,11,"['field', 'language']",,Chemistry,Deutsch,211.0
+,,30,"['field', 'language']",,Chemistry,Deutsch,217.0
+,,41,"['field', 'language']",,Chemistry,Deutsch,219.0
+,,49,"['field', 'language']",,Chemistry,Deutsch,224.0
+,,53,"['field', 'language']",,Chemistry,Deutsch,228.0
+,,16,"['field', 'language']",,Chemistry,Deutsch,230.0
+,,63,"['field', 'language']",,Chemistry,Deutsch,231.0
+,,65,"['field', 'language']",,Chemistry,Deutsch,232.0
+,,24,"['field', 'language']",,Chemistry,Deutsch,237.0
+,,81,"['field', 'language']",,Chemistry,Deutsch,241.0
+,,28,"['field', 'language']",,Chemistry,Deutsch,242.0
+,,129,"['field', 'language']",,Chemistry,Deutsch,244.0
+,,29,"['field', 'language']",,Chemistry,Deutsch,245.0
+,,25,"['field', 'language']",,Chemistry,Deutsch,246.0
+,,47,"['field', 'language']",,Chemistry,Français,5.0
+,,106,"['field', 'language']",,Chemistry,Français,12.0
+,,39,"['field', 'language']",,Chemistry,Français,13.0
+,,127,"['field', 'language']",,Chemistry,Français,14.0
+,,48,"['field', 'language']",,Chemistry,Français,16.0
+,,42,"['field', 'language']",,Chemistry,Français,21.0
+,,24,"['field', 'language']",,Chemistry,Français,23.0
+,,160,"['field', 'language']",,Chemistry,Français,36.0
+,,111,"['field', 'language']",,Chemistry,Français,39.0
+,,181,"['field', 'language']",,Chemistry,Français,48.0
+,,34,"['field', 'language']",,Chemistry,Français,56.0
+,,29,"['field', 'language']",,Chemistry,Français,70.0
+,,23,"['field', 'language']",,Chemistry,Français,71.0
+,,20,"['field', 'language']",,Chemistry,Français,75.0
+,,29,"['field', 'language']",,Chemistry,Français,78.0
+,,54,"['field', 'language']",,Chemistry,Français,83.0
+,,139,"['field', 'language']",,Chemistry,Français,84.0
+,,82,"['field', 'language']",,Chemistry,Français,89.0
+,,86,"['field', 'language']",,Chemistry,Français,90.0
+,,68,"['field', 'language']",,Chemistry,Français,96.0
+,,102,"['field', 'language']",,Chemistry,Français,99.0
+,,216,"['field', 'language']",,Chemistry,Français,102.0
+,,109,"['field', 'language']",,Chemistry,Français,106.0
+,,221,"['field', 'language']",,Chemistry,Français,109.0
+,,41,"['field', 'language']",,Chemistry,Français,111.0
+,,25,"['field', 'language']",,Chemistry,Français,112.0
+,,32,"['field', 'language']",,Chemistry,Français,125.0
+,,112,"['field', 'language']",,Chemistry,Français,126.0
+,,112,"['field', 'language']",,Chemistry,Français,128.0
+,,35,"['field', 'language']",,Chemistry,Français,129.0
+,,62,"['field', 'language']",,Chemistry,Français,130.0
+,,25,"['field', 'language']",,Chemistry,Français,136.0
+,,115,"['field', 'language']",,Chemistry,Français,138.0
+,,75,"['field', 'language']",,Chemistry,Français,148.0
+,,213,"['field', 'language']",,Chemistry,Français,154.0
+,,76,"['field', 'language']",,Chemistry,Français,163.0
+,,58,"['field', 'language']",,Chemistry,Français,170.0
+,,38,"['field', 'language']",,Chemistry,Français,172.0
+,,31,"['field', 'language']",,Chemistry,Français,173.0
+,,16,"['field', 'language']",,Chemistry,Français,182.0
+,,33,"['field', 'language']",,Chemistry,Français,183.0
+,,43,"['field', 'language']",,Chemistry,Français,188.0
+,,59,"['field', 'language']",,Chemistry,Français,197.0
+,,23,"['field', 'language']",,Chemistry,Français,206.0
+,,15,"['field', 'language']",,Chemistry,Français,210.0
+,,120,"['field', 'language']",,Chemistry,Français,213.0
+,,18,"['field', 'language']",,Chemistry,Français,215.0
+,,208,"['field', 'language']",,Chemistry,Français,216.0
+,,18,"['field', 'language']",,Chemistry,Français,220.0
+,,120,"['field', 'language']",,Chemistry,Français,221.0
+,,128,"['field', 'language']",,Chemistry,Français,222.0
+,,36,"['field', 'language']",,Chemistry,Français,229.0
+,,35,"['field', 'language']",,Chemistry,Français,234.0
+,,70,"['field', 'language']",,Chemistry,Français,236.0
+,,45,"['field', 'language']",,Chemistry,Français,240.0
+,,25,"['field', 'language']",,Chemistry,Français,243.0
+,,139,"['field', 'language']",,"Chemistry, Textiles",Deutsch,1.0
+,,60,"['field', 'language']",,"Chemistry, Textiles",Deutsch,3.0
+,,74,"['field', 'language']",,"Chemistry, Textiles",Deutsch,6.0
+,,56,"['field', 'language']",,"Chemistry, Textiles",Deutsch,8.0
+,,32,"['field', 'language']",,"Chemistry, Textiles",Deutsch,15.0
+,,70,"['field', 'language']",,"Chemistry, Textiles",Deutsch,18.0
+,,153,"['field', 'language']",,"Chemistry, Textiles",Deutsch,19.0
+,,69,"['field', 'language']",,"Chemistry, Textiles",Deutsch,22.0
+,,135,"['field', 'language']",,"Chemistry, Textiles",Deutsch,26.0
+,,132,"['field', 'language']",,"Chemistry, Textiles",Deutsch,33.0
+,,53,"['field', 'language']",,"Chemistry, Textiles",Deutsch,35.0
+,,126,"['field', 'language']",,"Chemistry, Textiles",Deutsch,37.0
+,,151,"['field', 'language']",,"Chemistry, Textiles",Deutsch,38.0
+,,104,"['field', 'language']",,"Chemistry, Textiles",Deutsch,41.0
+,,130,"['field', 'language']",,"Chemistry, Textiles",Deutsch,61.0
+,,27,"['field', 'language']",,"Chemistry, Textiles",Deutsch,62.0
+,,185,"['field', 'language']",,"Chemistry, Textiles",Deutsch,65.0
+,,15,"['field', 'language']",,"Chemistry, Textiles",Deutsch,66.0
+,,67,"['field', 'language']",,"Chemistry, Textiles",Deutsch,69.0
+,,59,"['field', 'language']",,"Chemistry, Textiles",Deutsch,74.0
+,,79,"['field', 'language']",,"Chemistry, Textiles",Deutsch,76.0
+,,50,"['field', 'language']",,"Chemistry, Textiles",Deutsch,80.0
+,,108,"['field', 'language']",,"Chemistry, Textiles",Deutsch,101.0
+,,34,"['field', 'language']",,"Chemistry, Textiles",Deutsch,108.0
+,,35,"['field', 'language']",,"Chemistry, Textiles",Deutsch,120.0
+,,34,"['field', 'language']",,"Chemistry, Textiles",Deutsch,127.0
+,,128,"['field', 'language']",,"Chemistry, Textiles",Deutsch,137.0
+,,39,"['field', 'language']",,"Chemistry, Textiles",Deutsch,145.0
+,,121,"['field', 'language']",,"Chemistry, Textiles",Deutsch,147.0
+,,39,"['field', 'language']",,"Chemistry, Textiles",Deutsch,150.0
+,,21,"['field', 'language']",,"Chemistry, Textiles",Deutsch,151.0
+,,50,"['field', 'language']",,"Chemistry, Textiles",Deutsch,152.0
+,,52,"['field', 'language']",,"Chemistry, Textiles",Deutsch,158.0
+,,40,"['field', 'language']",,"Chemistry, Textiles",Deutsch,165.0
+,,420,"['field', 'language']",,"Chemistry, Textiles",Deutsch,166.0
+,,43,"['field', 'language']",,"Chemistry, Textiles",Deutsch,176.0
+,,136,"['field', 'language']",,"Chemistry, Textiles",Deutsch,178.0
+,,27,"['field', 'language']",,"Chemistry, Textiles",Deutsch,190.0
+,,138,"['field', 'language']",,"Chemistry, Textiles",Deutsch,192.0
+,,58,"['field', 'language']",,"Chemistry, Textiles",Deutsch,200.0
+,,145,"['field', 'language']",,"Chemistry, Textiles",Deutsch,201.0
+,,156,"['field', 'language']",,"Chemistry, Textiles",Deutsch,204.0
+,,57,"['field', 'language']",,"Chemistry, Textiles",Deutsch,207.0
+,,608,"['field', 'language']",,"Chemistry, Textiles",Deutsch,212.0
+,,14,"['field', 'language']",,"Chemistry, Textiles",Deutsch,214.0
+,,32,"['field', 'language']",,"Chemistry, Textiles",Deutsch,218.0
+,,14,"['field', 'language']",,"Chemistry, Textiles",Deutsch,225.0
+,,20,"['field', 'language']",,"Chemistry, Textiles",Deutsch,226.0
+,,39,"['field', 'language']",,"Chemistry, Textiles",Deutsch,238.0
+,,63,"['field', 'language']",,"Chemistry, Textiles",Deutsch,239.0
+,,60,"['field', 'language']",,"Chemistry, Textiles",Deutsch,247.0
+,,127,"['field', 'language']",,"Chemistry, Textiles",Deutsch,248.0
+,,145,"['field', 'language']",,Pharma Chemistry,Deutsch,34.0
+,,30,"['field', 'language']",,Pharma Chemistry,Deutsch,45.0
+,,51,"['field', 'language']",,Pharma Chemistry,Deutsch,82.0
+,,21,"['field', 'language']",,Pharma Chemistry,Deutsch,87.0
+,,22,"['field', 'language']",,Pharma Chemistry,Deutsch,91.0
+,,54,"['field', 'language']",,Pharma Chemistry,Deutsch,93.0
+,,142,"['field', 'language']",,Pharma Chemistry,Deutsch,97.0
+,,34,"['field', 'language']",,Pharma Chemistry,Deutsch,110.0
+,,173,"['field', 'language']",,Pharma Chemistry,Deutsch,124.0
+,,72,"['field', 'language']",,Pharma Chemistry,Deutsch,156.0
+,,37,"['field', 'language']",,Pharma Chemistry,Deutsch,193.0
+,,16,"['field', 'language']",,Pharma Chemistry,Deutsch,233.0

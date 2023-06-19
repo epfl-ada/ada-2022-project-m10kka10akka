@@ -1,0 +1,135 @@
+---
+experiment:
+  root_name: story/
+  # root_name: test
+  name: x
+  labels: x
+data:
+  dataset: x
+  feature: x
+  label: x
+  others:
+    none:
+      - x
+      - x
+    # gender:
+      # - 3
+      # - 4
+    # field:
+    #   - "Fast track"
+    #   - "Pharma Chemistry"
+  adjuster:
+    limit: x
+ml:
+  pipeline:
+    crossvalidator: nonnested
+    gridsearch: none
+    model: x
+    gs_splitter: none
+    inner_splitter: none
+    outer_splitter: none
+    splitter: stratkf
+    oversampler: ros
+    scorer: x
+  crossvalidator: 
+    optim_scoring: roc
+  nfolds:
+    outer: x
+    inner: x
+    full: 10
+  splitter:
+    shuffle: True
+    stratifier_col:
+      - x # static
+  oversampler:
+    oversampling_col:
+      - area
+      - gender
+    rebalancing_mode: x #all
+    strategy: x #one
+    noisy: x #zero
+    one_group: x #largest
+    oversampling_factor: x
+    oversampling_distributions:
+      cluster_a: x
+      cluster_b: y
+    na_no_minority: True
+    within_group: x
+    shuffler:
+      shuffling_coin: 2
+      mode: simple
+      chunk_size: 30
+  models:
+    ts_attention:
+      seed: 1
+      batch_size: 16
+      cell_type: GRU
+      dropout: 0.02
+      early_stopping: False
+      epochs: 30
+      loss: auc
+      n_cells: 
+        - 32
+      n_layers: 1
+      optimiser: adam
+      padding_value: -1
+      shuffle: True
+      verbose: -1
+      save_best_model: False
+      flatten: average
+    flipped_classroom_bi_lstm:
+      seed: 1
+      week_type: eq
+      feature_type: ensemble
+      course: algebrelineaire
+      n_weeks: 14
+      n_features: 82
+      hidden_feature_num:
+        - 8
+        - 8
+      batch_size: 32
+      epochs: 100
+      early_stopping: False
+      shuffle: True
+      save_best_model: False
+      verbose: -1
+    tuglet_lstm:
+      seed: 1
+      batch_size: 128
+      mask_value: -1
+      verbose: -1
+      optimiser: adam
+      recurrent_units: 32
+      epochs: 30
+      dropout_rate: 0.02
+      shuffle: True
+      save_best_model: False
+      early_stopping: False
+      score: x
+  scorer:
+    scoring_metrics:
+      - accuracy
+      - balanced_accuracy
+      - precision
+      - recall
+      - roc
+      - balanced_auc
+      - overall_auc
+      - mse
+      - cce
+
+    fairness_metrics:
+      - tp
+      - fp
+      - roc
+      - recall
+      - precision
+      - balanced_accuracy
+      - roc
+    threshold_positive_class: 0.75
+seeds:
+  splitter: 21
+  oversampler: 11
+  model: 193
+  shuffler: 36
+...

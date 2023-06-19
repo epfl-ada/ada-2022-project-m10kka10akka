@@ -1,0 +1,91 @@
+---
+experiment:
+  root_name: oversample/equal_balancing_oversampling/country_diploma_gender
+  labels: pass
+  n_classes: 2
+  regexes: 
+    - "oversample/(.*)/flipped/"
+    # - no_os/(.*)/flipped --oversamplingatt gender.country_diploma
+  exclude:
+  - nothingtoexclude
+    # - gender
+    # - gap
+    # - country
+    # - labels
+    # - group_maths
+    # - group_french
+data:
+  metrics:
+    - roc
+    # - recall
+    # - precision
+    - balanced_accuracy
+    - tp 
+    - fp
+    - fn
+  fairness_metrics:
+    - fn
+    - tp
+    - fp
+    # - pp 
+    # - recall
+    # - precision
+    - balanced_accuracy
+    - roc
+  demographics:
+    ## flipped
+    - gender
+    - country_diploma
+    # - gap_year
+    # - group_french
+    # - group_maths
+    # - group_physics
+    # - group_fixed_french
+    # - group_fixed_maths
+    # - group_fixed_physics
+    - cluster_aied_paola
+    ## flipped --oversamplingatt gender.country_diploma
+    # - gender
+    # - country_diploma
+    # - cluster
+    # - passed_game
+    # beerslaw
+    # - label
+    # - gender
+    # - language
+    # - year
+    # - field
+  combined_demographics:
+    - gender
+    # - cluster
+    - country_diploma
+  exclude_demographics:
+    - Liban
+    - Etats-Unis
+    - Maroc
+csv:
+  folder: '../experiments/oversample'
+  file: 'flipped --oversamplingatt gender.country_diploma.tsv'
+  sorting:
+    - metric
+    - baseline
+  baseline: no_os
+  fixed:
+    - key
+    - oversampling_model
+    - oversampling_proportion
+    - oversampling_attribute
+    - metric
+  filtering_experiments:
+    - no_os
+  filtering_columns:
+    - mean
+style:
+  xspacing: 0.5
+  groupspacing: 0.8
+  xmargins: 1
+  bar_width: 0.09
+  figsize_width: 8
+  figsize_height: 4 
+  rotation: 30
+...
