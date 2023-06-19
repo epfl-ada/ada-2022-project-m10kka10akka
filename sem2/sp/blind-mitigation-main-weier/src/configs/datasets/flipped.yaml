@@ -1,9 +1,0 @@
----
-data:
-  dataset: flipped
-  feature: vinitra_ensemble_but_mirko
-  label: pass
-ml:
-  pipeline:
-    model: flipped_bilstm
-...
